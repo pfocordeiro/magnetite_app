@@ -1,0 +1,12 @@
+scikit-learn
+scipy
+pandas
+numpy
+matplotlib
+pip
+seaborn
+plotly
+sklearn
+umap
+hdbscan
+streamlit==1.1.*
