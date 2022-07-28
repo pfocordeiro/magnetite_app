@@ -7,6 +7,6 @@ pip
 seaborn
 plotly
 sklearn
-umap
+umap-learn
 hdbscan
 streamlit==1.1.*
