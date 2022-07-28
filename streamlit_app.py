@@ -207,6 +207,7 @@ fig_2d.update_layout(legend=dict(
 ))
 
 fig_2d.show()
+st.plotly_chart(fig_2d)
 # fig_2d.write_html("1_interactive_global_model.html")
 
 
@@ -230,6 +231,7 @@ fig_2d.update_layout(legend=dict(
 ))
 
 fig_2d.show()
+st.plotly_chart(fig_2d)
 # fig_2d.write_html("1_interactive_global_model.html")
 
 
@@ -251,9 +253,17 @@ ax[1].set(ylim=(-6, 14))
 ax[1].set(xlim=(-2, 15))
 
 plt.tight_layout()
+st.pyplot(fig)
 
-
-plt.savefig("3_embedding_unlabeled_data.svg", dpi=300, bbox_inches='tight')
+fn = 'embedding_unlabeled_data.svg'
+plt.savefig(fn, dpi=300, bbox_inches='tight')
+with open(fn, "rb") as img:
+    btn = st.download_button(
+        label="Download image",
+        data=img,
+        file_name=fn,
+        mime="image/svg"
+    )
 
 
 # In[ ]:
