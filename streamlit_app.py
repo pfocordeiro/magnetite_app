@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
+# In[1]:
 
 
 import pandas as pd
@@ -30,11 +30,9 @@ with c30:
 
     if uploaded_file is not None:
         file_container = st.expander("Check your uploaded .csv")
-#         shows = pd.read_csv(uploaded_file)
-#         df_test = pd.read_csv(uploaded_file#'MAG_Test.csv')
-        df_test = pd.read_csv(uploaded_file)
+        shows = pd.read_csv(uploaded_file)
         uploaded_file.seek(0)
-        file_container.write(df_test)
+        file_container.write(shows)
 
     else:
         st.info(
@@ -46,7 +44,7 @@ with c30:
         st.stop()
 
 
-# In[ ]:
+# In[2]:
 
 
 df_dropped = df_pre.drop(['Location',
@@ -59,7 +57,7 @@ df_scaled = QuantileTransformer(output_distribution='uniform',
                                 n_quantiles=2000).fit_transform(df_dropped)
 
 
-# In[ ]:
+# In[3]:
 
 
 df_umap = UMAP(random_state=1, n_components=2, n_neighbors=20,
@@ -72,7 +70,7 @@ df_pre['umap_2'] = df_umap[:, 1]
 df_pre = df_pre.drop(columns=['Unnamed: 0'])
 
 
-# In[ ]:
+# In[4]:
 
 
 fig_2d = px.scatter(
@@ -95,7 +93,7 @@ fig_2d.show()
 # fig_2d.write_html("1_interactive_model.html")
 
 
-# In[ ]:
+# In[5]:
 
 
 predicted_labels = hdbscan.HDBSCAN(min_cluster_size=40,
@@ -104,7 +102,7 @@ predicted_labels = hdbscan.HDBSCAN(min_cluster_size=40,
 df_pre['hdbscan'] = list(predicted_labels)
 
 
-# In[ ]:
+# In[6]:
 
 
 df = df_pre[df_pre.hdbscan != -1]
@@ -129,7 +127,7 @@ fig_2d.show()
 # fig_2d.write_html("1_interactive_hdbscan.html")
 
 
-# In[ ]:
+# In[7]:
 
 
 df_umap = UMAP(random_state=1, n_components=2, n_neighbors=100,
@@ -141,7 +139,7 @@ df_pre['umap_3'] = df_umap[:, 0]
 df_pre['umap_4'] = df_umap[:, 1]
 
 
-# In[ ]:
+# In[8]:
 
 
 mapper = umap.UMAP(random_state=1, n_components=2, n_neighbors=20,
@@ -150,10 +148,10 @@ mapper = umap.UMAP(random_state=1, n_components=2, n_neighbors=20,
                metric='manhattan').fit(df_scaled, y=df_pre.hdbscan)
 
 
-# In[ ]:
+# In[17]:
 
 
-
+df_test = pd.read_csv(uploaded_file#'MAG_Test.csv')
 df_dropped = df_test.drop(['Location', 'Type', 'Reference', 'Sample', 'Lithology', 'Model', 'Fe'], axis=1)
 
 df_dropped.fillna(0, inplace=True)
@@ -172,7 +170,7 @@ df_dropped.loc[df_dropped['Ga'] < 1, 'Ga'] = 1
 df_scaled_test = QuantileTransformer(output_distribution='uniform', n_quantiles=50).fit_transform(df_dropped)
 
 
-# In[ ]:
+# In[18]:
 
 
 train_embedding = mapper.transform(df_scaled)
@@ -185,7 +183,7 @@ df_test['umap_testX'] = test_embedding[:, 0]
 df_test['umap_testY'] = test_embedding[:, 1]
 
 
-# In[ ]:
+# In[19]:
 
 
 df_pre_train = df_pre[df_pre.hdbscan != -1]
@@ -207,11 +205,10 @@ fig_2d.update_layout(legend=dict(
 ))
 
 fig_2d.show()
-st.plotly_chart(fig_2d)
 # fig_2d.write_html("1_interactive_global_model.html")
 
 
-# In[ ]:
+# In[20]:
 
 
 fig_2d = px.scatter(
@@ -231,11 +228,10 @@ fig_2d.update_layout(legend=dict(
 ))
 
 fig_2d.show()
-st.plotly_chart(fig_2d)
 # fig_2d.write_html("1_interactive_global_model.html")
 
 
-# In[ ]:
+# In[21]:
 
 
 fig, ax = plt.subplots(2, figsize=(8, 14))
@@ -253,17 +249,9 @@ ax[1].set(ylim=(-6, 14))
 ax[1].set(xlim=(-2, 15))
 
 plt.tight_layout()
-st.pyplot(fig)
 
-fn = 'embedding_unlabeled_data.svg'
-plt.savefig(fn, dpi=300, bbox_inches='tight')
-with open(fn, "rb") as img:
-    btn = st.download_button(
-        label="Download image",
-        data=img,
-        file_name=fn,
-        mime="image/svg"
-    )
+
+plt.savefig("3_embedding_unlabeled_data.svg", dpi=300, bbox_inches='tight')
 
 
 # In[ ]:
