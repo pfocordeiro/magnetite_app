@@ -282,13 +282,13 @@ with open(fn, "rb") as img:
         file_name=fn,
         mime="image/svg"
         
-fn = 'embedding_unlabeled_data.eps'
-plt.savefig(fn, dpi=300, bbox_inches='tight')
+fg = 'embedding_unlabeled_data.eps'
+plt.savefig(fg, format='eps', bbox_inches='tight')
 with open(fn, "rb") as img:
     btn = st.download_button(
         label="Download eps image",
         data=img,
-        file_name=fn,
+        file_name=fg,
         mime="image/eps"
     )
 
