@@ -80,29 +80,6 @@ df_pre['umap_2'] = df_umap[:, 1]
 df_pre = df_pre.drop(columns=['Unnamed: 0'])
 
 
-# In[4]:
-
-
-fig_2d = px.scatter(
-    df_pre,
-    x='umap_1',
-    y='umap_2',
-    color=df_pre.Model,
-    hover_data=['Model',"Location", "Type", 'Sample', 'Lithology', 'Reference'],
-    color_discrete_sequence=px.colors.qualitative.Light24, width=600, height=500, template='simple_white')
-
-fig_2d.update_layout(legend=dict(
-    orientation="h",
-    yanchor="bottom",
-    y=1.02,
-    xanchor="right",
-    x=1
-))
-
-fig_2d.show()
-# fig_2d.write_html("1_interactive_model.html")
-
-
 # In[5]:
 
 
@@ -246,7 +223,7 @@ fig_2d.update_layout(legend=dict(
 ))
 
 fig_2d.show()
-# st.plotly_chart(fig_2d)
+st.plotly_chart(fig_2d)
 
 
 # In[16]:
@@ -280,8 +257,8 @@ with open(fn, "rb") as img:
         label="Download svg image",
         data=img,
         file_name=fn,
-        mime="image/svg"
-        
+        mime="image/svg")
+
 fg = 'embedding_unlabeled_data.eps'
 plt.savefig(fg, dpi=300, bbox_inches='tight')
 with open(fg, "rb") as img:
