@@ -238,14 +238,14 @@ fig, ax = plt.subplots(2, figsize=(6, 10))
 sns.scatterplot(ax=ax[0], data=df_pre_train, x='umap_trainX', y='umap_trainY', hue='Model',
                palette='Paired',
                s=50)
-ax[0].set(ylim=(-6, 17.5))
-ax[0].set(xlim=(-2, 15.5))
+ax[0].set(ylim=(-4, 17))
+ax[0].set(xlim=(-7, 12))
 
 sns.scatterplot(ax=ax[1], data=df_test, x='umap_testX', y='umap_testY', hue='Location',
                palette='Set2',
                s=50)
-ax[1].set(ylim=(-6, 17.5))
-ax[1].set(xlim=(-2, 15.5))
+ax[1].set(ylim=(-4, 17))
+ax[1].set(xlim=(-7, 12))
 
 plt.tight_layout()
 st.pyplot(fig)
