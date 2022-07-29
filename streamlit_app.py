@@ -6,7 +6,6 @@
 
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
 import seaborn as sns
 import plotly.express as px
 from sklearn.preprocessing import QuantileTransformer
@@ -16,9 +15,20 @@ import hdbscan
 import streamlit as st
 
 df_pre = pd.read_csv('MAG_INPUT.csv')
+# df_test = pd.read_csv('MAG_Test.csv')
 
 st.title("Magnetite Composition Clustering")
 c29, c30, c31 = st.columns([1, 6, 1])
+
+st.markdown("""
+This app allows the user to plot their own magnetite chemistry data over the clustering results performed in Cordeiro et al X. Please notice that the UMAP-HDBSCAN clustering from Cordeiro et al was designed around LA-ICPMS data only and will likely not perform well with EPMA data, considering the differences in Ni, Zn and Ga detection limits.
+
+Before uploading your data, please refer to the following guidelines:
+1) Download the MAG_test.csv file below and place your data in that format.
+2) Your test data must contain all eleven elements used in the original training (Al, Si, Ti, Vi, Cr, Mn, Co, Ni, Zn, Ga), even if your results are below detection limit. If any of these elements were not analysed, say Zn, the algorithm will consider Zn below detection limit and might deliver a biased embedded result.
+3) Delete all below detection nomenclature (b.d., B.D.L., etc) from your csv file. The program understands that cells left blank mean below detection results and treats them as such in the calculation of the UMAP embedded space.
+4) Only the 11 mentioned elements are used by the algorithms. Therefore, you can populate the Model, Type, Reference and Lithology columns as you wish. 
+""")
 
 with c30:
 
@@ -30,9 +40,9 @@ with c30:
 
     if uploaded_file is not None:
         file_container = st.expander("Check your uploaded .csv")
-        shows = pd.read_csv(uploaded_file)
+        df_test = pd.read_csv(uploaded_file)
         uploaded_file.seek(0)
-        file_container.write(shows)
+        file_container.write(df_test)
 
     else:
         st.info(
@@ -148,10 +158,10 @@ mapper = umap.UMAP(random_state=1, n_components=2, n_neighbors=20,
                metric='manhattan').fit(df_scaled, y=df_pre.hdbscan)
 
 
-# In[17]:
+# In[9]:
 
 
-df_test = pd.read_csv(uploaded_file#'MAG_Test.csv')
+
 df_dropped = df_test.drop(['Location', 'Type', 'Reference', 'Sample', 'Lithology', 'Model', 'Fe'], axis=1)
 
 df_dropped.fillna(0, inplace=True)
@@ -170,7 +180,7 @@ df_dropped.loc[df_dropped['Ga'] < 1, 'Ga'] = 1
 df_scaled_test = QuantileTransformer(output_distribution='uniform', n_quantiles=50).fit_transform(df_dropped)
 
 
-# In[18]:
+# In[10]:
 
 
 train_embedding = mapper.transform(df_scaled)
@@ -183,8 +193,12 @@ df_test['umap_testX'] = test_embedding[:, 0]
 df_test['umap_testY'] = test_embedding[:, 1]
 
 
-# In[19]:
+# In[11]:
 
+
+st.markdown("""
+This plot represents the literature magnetite data after supervised embedding using the HDBSCAN clustering as labels. Therefore, you'll see 22 clusters with relative good separation between them. The idea of this treatment is to provide an opportunity for metric learning, where we use this new metric as a measure of distance between new unlabelled points in your dataset. 
+""")
 
 df_pre_train = df_pre[df_pre.hdbscan != -1]
 
@@ -205,11 +219,15 @@ fig_2d.update_layout(legend=dict(
 ))
 
 fig_2d.show()
-# fig_2d.write_html("1_interactive_global_model.html")
+st.plotly_chart(fig_2d)
 
 
-# In[20]:
+# In[12]:
 
+
+st.markdown("""
+This plot represents the embedding of your data in the metric created by literature data (the previous plot) and they are using the same UMAP coordinates, the X and Y axes. As in other UMAP embeddings discussed in Cordeiro et al X, proximity in the space is a good proxy for relatedness. By comparing both graphs, you can see how your datapoints compare to the HDBSCAN clusters from Cordeiro et al X.
+""")
 
 fig_2d = px.scatter(
     df_test,
@@ -228,30 +246,59 @@ fig_2d.update_layout(legend=dict(
 ))
 
 fig_2d.show()
-# fig_2d.write_html("1_interactive_global_model.html")
+# st.plotly_chart(fig_2d)
 
 
-# In[21]:
+# In[16]:
 
 
-fig, ax = plt.subplots(2, figsize=(8, 14))
+st.markdown("""
+Here you can save both figures at same scale in various formats that should be editable in vector editing software (such as Corel Draw and Adobe Illustrator softwares). Overlapping these graphs in vector software should allow you to compare your results against that of literature.
+""")
+
+fig, ax = plt.subplots(2, figsize=(6, 10))
 
 sns.scatterplot(ax=ax[0], data=df_pre_train, x='umap_trainX', y='umap_trainY', hue='Model',
                palette='Paired',
-               s=50, alpha=0.05)
-ax[0].set(ylim=(-6, 14))
-ax[0].set(xlim=(-2, 15))
+               s=50)
+ax[0].set(ylim=(-6, 17.5))
+ax[0].set(xlim=(-2, 15.5))
 
 sns.scatterplot(ax=ax[1], data=df_test, x='umap_testX', y='umap_testY', hue='Location',
                palette='Set2',
                s=50)
-ax[1].set(ylim=(-6, 14))
-ax[1].set(xlim=(-2, 15))
+ax[1].set(ylim=(-6, 17.5))
+ax[1].set(xlim=(-2, 15.5))
 
 plt.tight_layout()
+st.pyplot(fig)
 
+fn = 'embedding_unlabeled_data.svg'
+plt.savefig(fn, dpi=300, bbox_inches='tight')
+with open(fn, "rb") as img:
+    btn = st.download_button(
+        label="Download svg image",
+        data=img,
+        file_name=fn,
+        mime="image/svg"
+        
+fn = 'embedding_unlabeled_data.eps'
+plt.savefig(fn, dpi=300, bbox_inches='tight')
+with open(fn, "rb") as img:
+    btn = st.download_button(
+        label="Download eps image",
+        data=img,
+        file_name=fn,
+        mime="image/eps"
+    )
 
-plt.savefig("3_embedding_unlabeled_data.svg", dpi=300, bbox_inches='tight')
+st.markdown("""
+Notes on interpretation:
+1) Your datapoints will embed in spatial proximity to one of the 22 clusters from the original study. So, if your datapoints embedded within cluster 3, it means that the algorithm classified these points as most similar to those from cluster 3, in relation to all other clusters.
+
+2) Beyond the scope of the original paper, I've tested how magnetite from carbonatite and Ni-sulfide deposits would plot within this metric learning. In the trained space, most of their datapoints embedded either over the porphyry-dominant clusters or the Ti-V-dominant cluster, suggesting a strong magmatic affinity for all three deposit models, as expected.
+
+""")
 
 
 # In[ ]:
