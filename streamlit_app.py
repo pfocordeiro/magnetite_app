@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[15]:
 
 
 import pandas as pd
@@ -16,7 +16,7 @@ import streamlit as st
 pd.set_option("display.max_rows", None)
 
 
-df_train = pd.read_csv('MAG_INPUT.csv')
+df_train = pd.read_csv('https://raw.githubusercontent.com/pfocordeiro/magnetite_app/main/MAG_INPUT.csv')
 df_test = pd.read_csv('MAG_test_Xing.csv')
 
 st.title("Magnetite Composition Clustering")
@@ -56,7 +56,7 @@ with c30:
         st.stop()
 
 
-# In[2]:
+# In[17]:
 
 
 df_dropped = df_train.drop(
