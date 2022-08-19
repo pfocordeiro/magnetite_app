@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[15]:
+# In[1]:
 
 
 import pandas as pd
@@ -56,7 +56,7 @@ with c30:
         st.stop()
 
 
-# In[17]:
+# In[2]:
 
 
 df_dropped = df_train.drop(
@@ -131,7 +131,7 @@ df_test_dropped.loc[df_test_dropped['Zn'] < 6, 'Zn'] = 6
 df_test_dropped.loc[df_test_dropped['Ga'] < 1, 'Ga'] = 1
 
 
-# In[7]:
+# In[6]:
 
 
 df_scaled_test = PowerTransformer(method="box-cox").fit_transform(df_test_dropped)
@@ -148,7 +148,7 @@ df_test['umap_testX'] = test_embedding[:, 0]
 df_test['umap_testY'] = test_embedding[:, 1]
 
 
-# In[8]:
+# In[7]:
 
 
 st.markdown("""
@@ -177,10 +177,10 @@ fig_2d.update_layout(legend=dict(
 ), yaxis_title=None, xaxis_title=None)
 
 fig_2d.show()
-# st.plotly_chart(fig_2d)
+st.plotly_chart(fig_2d)
 
 
-# In[9]:
+# In[8]:
 
 
 st.markdown("""
@@ -207,10 +207,10 @@ fig_2d.update_layout(legend=dict(
 ), yaxis_title=None, xaxis_title=None)
 
 fig_2d.show()
-# st.plotly_chart(fig_2d)
+st.plotly_chart(fig_2d)
 
 
-# In[10]:
+# In[9]:
 
 
 mapper = umap.UMAP(random_state=1, n_components=2,
@@ -228,7 +228,7 @@ df_test['umap_testX_hdbscan'] = test_embedding[:, 0]
 df_test['umap_testY_hdbscan'] = test_embedding[:, 1]
 
 
-# In[11]:
+# In[10]:
 
 
 st.markdown("""
@@ -259,10 +259,10 @@ fig_2d.update_layout(legend=dict(
 ), yaxis_title=None, xaxis_title=None)
 
 fig_2d.show()
-# st.plotly_chart(fig_2d)
+st.plotly_chart(fig_2d)
 
 
-# In[12]:
+# In[11]:
 
 
 st.markdown("""
@@ -290,10 +290,10 @@ fig_2d.update_layout(legend=dict(
                     )
 
 fig_2d.show()
-# st.plotly_chart(fig_2d)
+st.plotly_chart(fig_2d)
 
 
-# In[13]:
+# In[15]:
 
 
 st.markdown("""
