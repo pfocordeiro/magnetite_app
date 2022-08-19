@@ -18,41 +18,41 @@ pd.set_option("display.max_rows", None)
 
 df_train = pd.read_csv('MAG_INPUT.csv')
 
-# st.title("Magnetite Composition Clustering")
-# c29, c30, c31 = st.columns([1, 6, 1])
+st.title("Magnetite Composition Clustering")
+c29, c30, c31 = st.columns([1, 6, 1])
 
-# st.markdown("""
-# This app allows the user to plot their own magnetite chemistry data over the clustering results performed in Cordeiro et al X. Please notice that the UMAP-HDBSCAN clustering from Cordeiro et al was designed around LA-ICPMS data only and will likely not perform well with EPMA data, considering the differences in Ni, Zn and Ga detection limits.
+st.markdown("""
+This app allows the user to plot their own magnetite chemistry data over the clustering results performed in Cordeiro et al X. Please notice that the UMAP-HDBSCAN clustering from Cordeiro et al was designed around LA-ICPMS data only and will likely not perform well with EPMA data, considering the differences in Ni, Zn and Ga detection limits.
 
-# Before uploading your data, please refer to the following guidelines:
-# 1) Download the MAG_test.csv file below and place your data in that format.
-# 2) Your test data must contain all eleven elements used in the original training (Al, Si, Ti, Vi, Cr, Mn, Co, Ni, Zn, Ga), even if your results are below detection limit. If any of these elements were not analysed, say Zn, the algorithm will consider Zn below detection limit and might deliver a biased embedded result.
-# 3) Delete all below detection nomenclature (b.d., B.D.L., etc) from your csv file. The program understands that cells left blank mean below detection results and treats them as such in the calculation of the UMAP embedded space.
-# 4) Only the 11 mentioned elements are used by the algorithms. Therefore, you can populate the Model, Type, Reference and Lithology columns as you wish. 
-# """)
+Before uploading your data, please refer to the following guidelines:
+1) Download the MAG_test.csv file below and place your data in that format.
+2) Your test data must contain all eleven elements used in the original training (Al, Si, Ti, Vi, Cr, Mn, Co, Ni, Zn, Ga), even if your results are below detection limit. If any of these elements were not analysed, say Zn, the algorithm will consider Zn below detection limit and might deliver a biased embedded result.
+3) Delete all below detection nomenclature (b.d., B.D.L., etc) from your csv file. The program understands that cells left blank mean below detection results and treats them as such in the calculation of the UMAP embedded space.
+4) Only the 11 mentioned elements are used by the algorithms. Therefore, you can populate the Model, Type, Reference and Lithology columns as you wish. 
+""")
 
-# with c30:
+with c30:
 
-#     uploaded_file = st.file_uploader(
-#         "",
-#         key="1",
-#         help="To activate 'wide mode', go to the hamburger menu > Settings > turn on 'wide mode'",
-#     )
+    uploaded_file = st.file_uploader(
+        "",
+        key="1",
+        help="To activate 'wide mode', go to the hamburger menu > Settings > turn on 'wide mode'",
+    )
 
-#     if uploaded_file is not None:
-#         file_container = st.expander("Check your uploaded .csv")
-#         df_test = pd.read_csv(uploaded_file)
-#         uploaded_file.seek(0)
-#         file_container.write(df_test)
+    if uploaded_file is not None:
+        file_container = st.expander("Check your uploaded .csv")
+        df_test = pd.read_csv(uploaded_file)
+        uploaded_file.seek(0)
+        file_container.write(df_test)
 
-#     else:
-#         st.info(
-#             f"""
-#                 👆 Upload a .csv file first. Sample to try: [MAG_test.csv](https://raw.githubusercontent.com/pfocordeiro/magnetite_app/main/MAG_test.csv)
-#                 """
-#         )
+    else:
+        st.info(
+            f"""
+                👆 Upload a .csv file first. Sample to try: [MAG_test.csv](https://raw.githubusercontent.com/pfocordeiro/magnetite_app/main/MAG_test.csv)
+                """
+        )
 
-#         st.stop()
+        st.stop()
 
 
 # In[16]:
