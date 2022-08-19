@@ -17,7 +17,6 @@ pd.set_option("display.max_rows", None)
 
 
 df_train = pd.read_csv('MAG_INPUT.csv')
-df_test = pd.read_csv('MAG_test.csv')
 
 # st.title("Magnetite Composition Clustering")
 # c29, c30, c31 = st.columns([1, 6, 1])
