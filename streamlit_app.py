@@ -62,7 +62,7 @@ df_test = pd.read_csv('MAG_test.csv')
 df_dropped = df_train.drop(
     ['Location', 'Type', 'Reference', 'Sample', 'Lithology', 'Model'], axis=1)
 
-df_scaled = PowerTransformer(method="box-cox", copy=False).fit_transform(df_dropped)
+df_scaled = PowerTransformer(method="box-cox").fit_transform(df_dropped)
 
 #UMAP model favoring local structures and clustered using HDBSCAN
 df_umap1 = UMAP(random_state=1,
