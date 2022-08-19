@@ -189,8 +189,8 @@ This plot represents the embedding of your data in the metric created by literat
 
 fig_2d = px.scatter(
     df_test,
-    x=df_test['umap_testX'],
-    y=df_test['umap_testY'],
+    x=df_test['umap_1'],
+    y=df_test['umap_2'],
     color='Location',
     hover_data=['Model',"Location", "Type", 'Sample', 'Lithology', 'Reference', 'Si'],
     color_discrete_sequence=px.colors.qualitative.Light24, width=600, height=500, template='simple_white')
