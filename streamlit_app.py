@@ -215,8 +215,8 @@ fig_2d = px.scatter(
     hover_data=['Model',"Location", "Type", 'Sample', 'Lithology', 'Reference', 'hdbscan'],
     color_discrete_sequence=px.colors.qualitative.Light24, width=600, height=500, template='simple_white')
 
-fig_2d.update_xaxes(range=[-7,24])
-fig_2d.update_yaxes(range=[-11, 25])
+fig_2d.update_xaxes(range=[-10,16])
+fig_2d.update_yaxes(range=[-3, 19])
 
 
 fig_2d.update_layout(legend=dict(
@@ -246,8 +246,8 @@ fig_2d = px.scatter(
     hover_data=['Model',"Location", "Type", 'Sample', 'Lithology', 'Reference', 'Si'],
     color_discrete_sequence=px.colors.qualitative.Light24, width=600, height=500, template='simple_white')
 
-fig_2d.update_xaxes(range=[-7,24])
-fig_2d.update_yaxes(range=[-11, 25])
+fig_2d.update_xaxes(range=[-10,16])
+fig_2d.update_yaxes(range=[-3, 19])
 
 fig_2d.update_layout(legend=dict(
     orientation="h",
@@ -275,20 +275,20 @@ sns.scatterplot(ax=ax[0,0], data=df_train, x='umap_trainX_hdbscan', y='umap_trai
                palette='Paired',
                s=50)
 ax[0,0].set_title('HDBSCAN-calculated UMAP embedding')
-ax[0,0].set(xlim=(-7,24), ylim=(-11, 25), xlabel=None, ylabel=None)
+ax[0,0].set(xlim=(-10,16), ylim=(-3, 19), xlabel=None, ylabel=None)
 ax[0,0].legend(loc=2, bbox_to_anchor=(0.99, 1))
 
 sns.scatterplot(ax=ax[0,1], data=df_train, x='umap_trainX_hdbscan', y='umap_trainY_hdbscan', hue='Model',
                palette='Paired',
                s=50)
 ax[0,1].set_title('HDBSCAN-calculated UMAP embedding')
-ax[0,1].set(xlim=(-7,24), ylim=(-11, 25), xlabel=None, ylabel=None)
+ax[0,1].set(xlim=(-10,16), ylim=(-3, 19), xlabel=None, ylabel=None)
 
 sns.scatterplot(ax=ax[0,2], data=df_test, x='umap_testX_hdbscan', y='umap_testY_hdbscan', hue='Location',
                palette='Set2',
                s=50)
 ax[0,2].set_title('Test Data over HDBSCAN-calculated UMAP embedding')
-ax[0,2].set(xlim=(-7,24), ylim=(-11, 25), xlabel=None, ylabel=None)
+ax[0,2].set(xlim=(-10,16), ylim=(-3, 19), xlabel=None, ylabel=None)
 
 sns.scatterplot(ax=ax[1,0], data=df_train, x='umap_trainX', y='umap_trainY', hue='Model',
                palette='Paired',
