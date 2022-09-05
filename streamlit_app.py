@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[15]:
+# In[1]:
 
 
 import pandas as pd
@@ -16,7 +16,8 @@ import streamlit as st
 pd.set_option("display.max_rows", None)
 
 
-df_train = pd.read_csv('MAG_INPUT.csv')
+df_train = pd.read_csv('MAG_INPUT_HDBSCAN.csv')
+df_test = pd.read_csv('MAG_test.csv')
 
 st.title("Magnetite Composition Clustering")
 c29, c30, c31 = st.columns([1, 6, 1])
@@ -55,50 +56,14 @@ with c30:
         st.stop()
 
 
-# In[16]:
+# In[2]:
 
 
 df_dropped = df_train.drop(
-    ['Location', 'Type', 'Reference', 'Sample', 'Lithology', 'Model'], axis=1)
+     ['Location', 'Type', 'Reference', 'Sample', 'Lithology', 'Model', 'umap_3',
+       'umap_4', 'umap_1', 'umap_2', 'hdbscan'], axis=1)
 
 df_scaled = PowerTransformer(method="box-cox").fit_transform(df_dropped)
-
-#UMAP model favoring local structures and clustered using HDBSCAN
-df_umap1 = UMAP(random_state=1,
-                n_components=2,
-                n_neighbors=24,
-                a=1.2,
-                b=0.74,
-                min_dist=0,
-                metric='manhattan').fit_transform(df_scaled)
-
-df_train['umap_1'] = df_umap1[:, 0]
-df_train['umap_2'] = df_umap1[:, 1]
-
-
-# In[ ]:
-
-
-#UMAP model favoring global structures
-df_umap2 = UMAP(random_state=1,
-                n_components=2,
-                n_neighbors=600,
-                a=15,
-                b=12,
-                min_dist=0.8,
-                metric='manhattan').fit_transform(df_scaled)
-
-df_train['umap_3'] = df_umap2[:, 0]
-df_train['umap_4'] = df_umap2[:, 1]
-
-
-# In[4]:
-
-
-predicted_labels = hdbscan.HDBSCAN(min_cluster_size=40,
-                                   min_samples=55,
-                                   ).fit_predict(df_umap1)
-df_train['hdbscan'] = list(predicted_labels)
 
 
 # In[5]:
@@ -106,7 +71,7 @@ df_train['hdbscan'] = list(predicted_labels)
 
 df_train.Model.replace({'IOA':1, "Porphyry":2, "IOCG":3, "BIF":4, "Skarn":5, 'Fe-Ti-V':6}, inplace=True)
 
-mapper = umap.UMAP(random_state=1, n_components=2,
+mapper_model = umap.UMAP(random_state=1, n_components=2,
                    n_neighbors=200,
                a=5, b=3,
                metric='manhattan').fit(df_scaled, y=(df_train.Model))
@@ -118,7 +83,8 @@ df_train.Model.replace({1:'IOA', 2:"Porphyry", 3:"IOCG", 4:"BIF", 5:"Skarn", 6:'
 
 
 df_calc_test = pd.concat([df_train, df_test])
-df_test_dropped = df_calc_test.drop(['Location', 'Type', 'Reference', 'Sample', 'Lithology', 'Model', 'umap_1', 'umap_2','umap_3','umap_4','hdbscan'], axis=1)
+df_test_dropped = df_calc_test.drop(['Location', 'Type', 'Reference', 'Sample', 'Lithology', 'Model', 'umap_1', 'umap_2', 'umap_3', 'umap_4','hdbscan'], axis=1)
+#'umap_3','umap_4',
 
 df_test_dropped.fillna(0, inplace=True)
 
@@ -141,8 +107,8 @@ df_scaled_test = PowerTransformer(method="box-cox").fit_transform(df_test_droppe
 
 df_scaled_test = df_scaled_test[4262:]
 
-train_embedding = mapper.transform(df_scaled)
-test_embedding = mapper.transform(df_scaled_test)
+train_embedding = mapper_model.transform(df_scaled)
+test_embedding = mapper_model.transform(df_scaled_test)
 
 df_train['umap_trainX'] = train_embedding[:, 0]
 df_train['umap_trainY'] = train_embedding[:, 1]
@@ -168,8 +134,8 @@ fig_2d = px.scatter(
     hover_data=['Model',"Location", "Type", 'Sample', 'Lithology', 'Reference', 'hdbscan'],
     color_discrete_sequence=px.colors.qualitative.Light24, width=600, height=500, template='simple_white')
 
-fig_2d.update_xaxes(range=[-11, 20])
-fig_2d.update_yaxes(range=[-10, 17])
+fig_2d.update_xaxes(range=[-5, 24])
+fig_2d.update_yaxes(range=[-14, 18])
 
 fig_2d.update_layout(legend=dict(
     orientation="h",
@@ -198,8 +164,8 @@ fig_2d = px.scatter(
     hover_data=['Model',"Location", "Type", 'Sample', 'Lithology', 'Reference', 'Si'],
     color_discrete_sequence=px.colors.qualitative.Light24, width=600, height=500, template='simple_white')
 
-fig_2d.update_xaxes(range=[-11, 20])
-fig_2d.update_yaxes(range=[-10, 17])
+fig_2d.update_xaxes(range=[-5, 24])
+fig_2d.update_yaxes(range=[-14, 18])
 
 fig_2d.update_layout(legend=dict(
     orientation="h",
@@ -216,13 +182,13 @@ st.plotly_chart(fig_2d)
 # In[10]:
 
 
-mapper = umap.UMAP(random_state=1, n_components=2,
-                   n_neighbors=20,
-               a=2, b=1.3,
+mapper_hdbscan = umap.UMAP(random_state=1, n_components=2,
+                   n_neighbors=30,
+               a=10, b=1.3,
                metric='manhattan').fit(df_scaled, y=(df_train.hdbscan))
 
-train_embedding = mapper.transform(df_scaled)
-test_embedding = mapper.transform(df_scaled_test)
+train_embedding = mapper_hdbscan.transform(df_scaled)
+test_embedding = mapper_hdbscan.transform(df_scaled_test)
 
 df_train['umap_trainX_hdbscan'] = train_embedding[:, 0]
 df_train['umap_trainY_hdbscan'] = train_embedding[:, 1]
@@ -249,8 +215,8 @@ fig_2d = px.scatter(
     hover_data=['Model',"Location", "Type", 'Sample', 'Lithology', 'Reference', 'hdbscan'],
     color_discrete_sequence=px.colors.qualitative.Light24, width=600, height=500, template='simple_white')
 
-fig_2d.update_xaxes(range=[-17,16])
-fig_2d.update_yaxes(range=[-12, 21])
+fig_2d.update_xaxes(range=[-7,24])
+fig_2d.update_yaxes(range=[-11, 25])
 
 
 fig_2d.update_layout(legend=dict(
@@ -280,8 +246,8 @@ fig_2d = px.scatter(
     hover_data=['Model',"Location", "Type", 'Sample', 'Lithology', 'Reference', 'Si'],
     color_discrete_sequence=px.colors.qualitative.Light24, width=600, height=500, template='simple_white')
 
-fig_2d.update_xaxes(range=[-17,16])
-fig_2d.update_yaxes(range=[-12, 21])
+fig_2d.update_xaxes(range=[-7,24])
+fig_2d.update_yaxes(range=[-11, 25])
 
 fig_2d.update_layout(legend=dict(
     orientation="h",
@@ -309,32 +275,32 @@ sns.scatterplot(ax=ax[0,0], data=df_train, x='umap_trainX_hdbscan', y='umap_trai
                palette='Paired',
                s=50)
 ax[0,0].set_title('HDBSCAN-calculated UMAP embedding')
-ax[0,0].set(xlim=(-17,17), ylim=(-12, 21), xlabel=None, ylabel=None)
+ax[0,0].set(xlim=(-7,24), ylim=(-11, 25), xlabel=None, ylabel=None)
 ax[0,0].legend(loc=2, bbox_to_anchor=(0.99, 1))
 
 sns.scatterplot(ax=ax[0,1], data=df_train, x='umap_trainX_hdbscan', y='umap_trainY_hdbscan', hue='Model',
                palette='Paired',
                s=50)
 ax[0,1].set_title('HDBSCAN-calculated UMAP embedding')
-ax[0,1].set(xlim=(-17,17), ylim=(-12, 21), xlabel=None, ylabel=None)
+ax[0,1].set(xlim=(-7,24), ylim=(-11, 25), xlabel=None, ylabel=None)
 
 sns.scatterplot(ax=ax[0,2], data=df_test, x='umap_testX_hdbscan', y='umap_testY_hdbscan', hue='Location',
                palette='Set2',
                s=50)
 ax[0,2].set_title('Test Data over HDBSCAN-calculated UMAP embedding')
-ax[0,2].set(xlim=(-17,17), ylim=(-12, 21), xlabel=None, ylabel=None)
+ax[0,2].set(xlim=(-7,24), ylim=(-11, 25), xlabel=None, ylabel=None)
 
 sns.scatterplot(ax=ax[1,0], data=df_train, x='umap_trainX', y='umap_trainY', hue='Model',
                palette='Paired',
                s=50)
 ax[1,0].set_title('Deposit Model-calculated UMAP embedding')
-ax[1,0].set(xlim=(-11,20), ylim=(-10, 17), xlabel=None, ylabel=None)
+ax[1,0].set(xlim=(-5,24), ylim=(-14, 18), xlabel=None, ylabel=None)
 
 sns.scatterplot(ax=ax[1,1], data=df_test, x='umap_testX', y='umap_testY', hue='Location',
                palette='Set2',
                s=50)
 ax[1,1].set_title('Test Data over Deposit Model-calculated UMAP embedding')
-ax[1,1].set(xlim=(-11,20), ylim=(-10, 17), xlabel=None, ylabel=None)
+ax[1,1].set(xlim=(-5,24), ylim=(-14, 18), xlabel=None, ylabel=None)
 
 fig.delaxes(ax[1,2])
 
