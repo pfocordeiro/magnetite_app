@@ -1,316 +1,316 @@
-Location,Model,Type,Reference,Lithology,Sample,Mg,Al,Si,Ti,V,Mn,Cr,Zn,Co,Ni,Ga,Fe
-Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_fresh,EC661-279_5-mag1-1,452.03,26.43,5839.26,22.88,1.89,14.02,1.09,3.26,0.76,0.67,0.17,723600
-Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_fresh,EC661-279_5-mag1-2,386.82,35.69,7702.64,22.58,1.99,11.79,,5.21,1.13,0.96,0.21,723600
-Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_fresh,EC661-279_5-mag1-3,414.58,12.01,5469.8,20.78,2.06,19.41,1.89,4.6,0.99,0.83,0.21,723600
-Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_fresh,EC661-279_5-mag1-4,450.51,22.03,10525.21,18.84,1.79,11.11,,4.15,2.26,0.68,0.2,723600
-Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_fresh,EC661-279_5-mag1-5,325.9,19.8,3748.16,17.25,1.45,16.21,4.51,4.39,0.49,0.58,0.16,723600
-Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_fresh,EC661-279_5-mag1-6,409.13,29.03,3869.57,21.86,2.46,18.34,1.27,4.61,0.58,0.85,0.24,723600
-Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_fresh,EC661-279_5-mag1-7,382.21,18.68,3395.34,15.27,1.51,12.76,0.68,4.99,0.6,,0.16,723600
-Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_carb(sid-dol)-sil,EC661-279-7-1,193.57,21.06,3122.71,29.75,6.24,22.91,0.52,1.77,0.19,1.11,0.32,723600
-Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_carb(sid-dol)-sil,EC661-279-7-2,196.11,18.38,4363.23,31.47,6.65,25.18,0.64,2.44,0.24,1.31,0.31,723600
-Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_carb(sid-dol)-sil,EC661-279-7-3,162.13,26.85,3026.85,29.28,6.27,17.96,0.61,1.23,0.21,0.7,0.32,723600
-Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_carb(sid-dol)-sil,EC661-279-7-4,140.16,21.58,2806.95,30.65,8.51,21.27,1.44,1.08,0.32,0.86,0.27,723600
-Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_carb(sid-dol)-sil,EC661-279-7-5,160.38,18.46,2789.43,30.33,5.85,23.8,0.76,,0.24,0.88,0.23,723600
-Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_carb(sid-dol)-sil,EC661-279-7-6,131.79,20.29,3714.46,35.55,7.18,15.89,1.32,1.44,0.27,1.01,0.29,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499219-10,459.32,22.74,,54.84,6.15,37.16,8.84,3.04,,3.56,2.39,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499219-11,518.81,77.68,,62.67,5.22,32.33,,14.56,3.53,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499219-2,402.23,34.58,,64.18,4.14,42.75,,,1.35,,4.93,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499219-3,343.82,16.86,,72.58,4.9,79.04,,,,19.02,5.2,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499219-6,375.73,34.07,,6.97,2.79,50.91,15.08,,,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499219-8,205.51,7.21,,38.97,5.54,32.77,,,0.92,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499242-10,225.43,42.22,,28.45,4.71,63.75,,13.28,1.8,6.84,1.66,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499242-11,1145.82,49.44,,0.8,3.33,56.89,1.24,8.21,1.3,,0.13,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499242-14,258.63,21.45,,17.17,3.91,52.2,19.95,11.04,0.52,10.74,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499242-17,636.48,42.37,,1,3.14,56.73,,4.93,,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499242-20,314.87,19.23,,11.97,2.93,64.13,5.81,13.95,,2.64,0.46,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499242-5,807.05,150.8,,27.82,4.74,59.37,,23.51,3.09,5.38,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499315-10,1092.8,223.25,,100.11,40.51,69.24,52.7,3.21,2.59,6.31,2.22,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499315-4,289.13,134.07,,46.75,17.22,6.41,51.74,2.62,0.61,3.21,1.75,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499315-6,95.95,5.36,,38.02,15.49,18.28,47.71,7.37,1.92,2.45,2.57,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-1,104.59,40.67,,,6.14,,,15.68,2.29,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-10,219.34,1294.71,,2.32,3.57,45.45,4.39,16.48,0.43,0.44,0.42,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-11,21.59,1161.33,,,3.83,44.86,10.73,4.57,0.33,,0.26,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-16,34.52,898.25,,1.32,3.25,21.08,2.09,4.56,,1.11,0.37,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-17,152.46,1137.5,,,3.2,33.71,1.07,14.29,0.08,1.18,0.5,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-19,77.29,756.94,,1.49,3.06,19.67,2.61,3.96,0.1,1.16,0.34,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-2,94.89,7.45,,16.52,3.67,23.57,23.62,,,,1.24,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-3,132.48,425.88,,14.69,4.2,0.63,17.53,6.51,1.88,3.38,3.79,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-4,88.42,1.99,,,0.46,9.9,7.63,2.92,2.33,0.22,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-5,44.35,7.8,,4.89,,,27.32,,0.98,,0.49,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-6,35.82,242.54,,,1.45,,,11.68,3.89,7.05,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-7,30.24,4.38,,12.09,1.76,5.2,40.8,6.35,0.82,1.06,2.01,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-8,85.33,12.64,,40.42,0.67,18.05,6.21,2.17,,4.48,0.84,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G1186-139-001,103.67,60.71,,24.29,5.1,,,,2.2,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G1186-139-002,184.64,37.74,,28.56,4.39,37.68,,,2.57,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G1186-139-003,210.6,17.6,,34.58,4.88,44.83,,,2.04,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G1186-139-004,178.26,87.55,,30.76,5.11,28.78,,,2.36,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G1186-139-005,135.83,6.07,,28.47,4.3,54.14,,,1.24,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G1186-139-006,143.61,92.32,,29.92,4.37,32.85,,,2.14,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_fresh,G831-329-001,208.96,61.45,,37.79,4.49,46.49,,,0.61,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_fresh,G831-329-002,180.03,85.72,,36.14,4.77,42.84,,,1.02,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_fresh,G831-329-003,398.65,261.08,,36.39,4.9,50.86,,,0.98,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_fresh,G831-329-004,239.07,58.05,,30.19,4.49,48.47,,,0.95,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_fresh,G831-329-006,157.98,41.43,,32.89,5.46,40.04,,,1.1,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_fresh,G831-329-007,298.38,127.22,,31.78,5.62,36.74,,,1.07,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_fresh,G831-329-009,346.41,65.87,,27.48,4.74,36.01,,,0.92,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-329-010,192.45,153.73,,37.45,5.01,57.44,,,0.92,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-001,691.72,141.92,,61.85,7.97,807.33,,,0.51,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-002,688.67,213.24,,50.83,10.12,514.11,,,0.38,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-003,1236.88,291.46,,62.86,10.62,823.75,,,0.48,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-004,1674.05,291.33,,48.01,12.42,692.04,,,0.6,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-005,1638.41,269.85,,51.66,11.83,767.67,,,0.49,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-006,2409.42,335.03,,54.39,11.75,640.6,,,0.51,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-007,1238.57,272.81,,46.51,15.3,514.88,,,0.68,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-008,813.96,131.84,,48.68,8.8,482.74,,,0.78,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-009,592.75,365.48,,45.31,16.14,548.75,,,0.64,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-010,531.83,233,,48.8,14.49,656.61,,,0.84,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-011,669.73,81.82,,48.15,5.34,349.78,,,0.4,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-012,346.27,73.82,,59.82,6.3,257.03,,,0.43,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-013,1411.92,214.14,,66.34,10.33,642.22,,,0.56,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-001,115.68,538.67,,2.97,3.39,67.96,,,0.48,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-002,141.04,639.25,,4.23,3.45,71.09,,,0.51,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-003,133.77,484.82,,2.51,3.28,136.16,,,0.48,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-004,165.92,376.87,,2.95,2.26,68.93,,,0.54,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-005,170.07,114.91,,1.07,2.15,129.96,,,0.58,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-006,100.9,179.73,,2.37,1.85,59.62,,,0.65,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-007,117.32,128.64,,1.29,2.1,53.04,,,0.51,,,723600
-Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-008,122.26,331.36,,2.02,2.07,56.38,,,0.47,,,723600
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Disseminated ore,NW8-2 3-5,183,1123,,19850,3383,4120,21.9,84.1,11.3,20.8,21.4,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Disseminated ore,NW8-2 2-1,206,1470,640,19250,3333,3346,16.8,76.6,9.05,18.1,26,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Disseminated ore,NW8-2 4-3,311,1058,,16190,2964,2890,28.1,28.2,11.4,22.2,17,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Disseminated ore,NW8-2 4-1,165,786,,14920,3302,2178,33.4,20.2,14.5,15.1,16,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Disseminated ore,NW99-2 1-6,322,905,,13690,914,278,20.3,5,15.3,160,9.8,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Disseminated ore,NW99-2 1-7,347,1832,,14760,870,355,22.7,31.1,15.8,169,12.8,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Disseminated ore,NW99-2 1-10,320,1671,,13170,881,367,22.8,14,16.4,174,12.2,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW46 1-3,110,1525,,17590,3399,1567,150,59,41,27.3,15.2,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW46 2-1,115,1785,,17450,3440,1853,71.4,109,39.6,28.8,16.6,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW46 2-2,137,1139,,16000,3347,1479,134,42.1,36.3,24.1,10.6,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW7-2-1,409,2380,,27430,3688,950,,122,26.8,23.8,24.5,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW7 3-1,273,2299,,29600,3651,1033,,74.5,44.3,28.2,21.3,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 2-4,329,3917,,34900,3741,572,,281,29.6,31,29.7,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 3-5,429,2542,,29960,3807,1080,70.3,206,18.9,27.8,31,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 2-6,364,3585,,34080,3708,574,16.3,312,25.6,32.6,30.1,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 1-4,217,3611,,33150,3309,702,63.6,261,44.7,30.4,23.5,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 1-5,374,4229,,32850,3356,648,14.9,264,48.1,31.5,29,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 2-3,399,3684,,33580,3641,633,7.4,355,30.6,32.1,28.7,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 1-2,293,4153,,35230,3339,780,115,381,44.2,33,25.3,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 1-3,262,2998,,33640,3292,1818,57.8,224,48.4,28.7,19.4,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 2-8,487,4303,,34290,3705,821,,324,27,32.6,35.8,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 2-5,431,3944,,35180,3759,791,,185,23,29.9,34.3,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,NW84 1-5,1497,1312,,25800,2411,2558,,40.1,46,41.4,33.3,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,NW84 1-7,1499,1295,,22890,2481,2330,,37.1,47.6,40.8,33.2,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,NW84 1-9,1544,1243,,23000,2407,2429,,39.4,46.8,42.3,33.5,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,NW84-2 3,1678,1628,433,24490,2388,2452,,38.9,47.6,44.4,35.6,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,NW84-2 4,1749,1538,339,32770,2348,3146,3.36,37.8,43.8,44.1,35,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,17WS21 1-3,292,2971,,28170,3712,658,8.3,204,49.6,30,37.4,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,17WS21 1-5,294,2771,610,27960,3719,671,36,274,48.5,31.6,37.5,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,17WS21 2-1,562,2983,760,27670,3714,4225,,439,55.6,29.6,37.2,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,17WS21 2-3,103,1323,,22960,3683,3894,20.3,49.9,45.7,25.1,29.7,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 1-1,1417,4500,,42280,3793,2692,14.7,177,72.1,33.5,46,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 1-4,2197,4437,603,39500,3764,1858,5.1,182,78.7,34.1,46,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 1-6,1778,4478,,41830,3759,1607,7.7,216,88.1,34.4,43.7,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 2-3,2281,4718,159,43230,3797,3836,11.2,394,56.6,32.5,40,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW733-1,6040,4765,335,40990,3825,2797,33.9,162,86.5,34.2,42.6,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 3-2,3278,4622,203,41190,3760,3638,28.1,208,77.7,33.7,43.1,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 5-1,8170,4840,278,47200,3758,2739,28,161,96.9,35,43.2,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 5-4,4607,4686,130,46250,3745,3156,33.7,196,80.8,35.5,42.8,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 1-2,1407,4292,170,44000,3781,3430,10.3,275,77.7,33.1,44.3,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 1-3,2340,4180,683,42100,3727,3090,7.5,170,78.2,34.2,43.1,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 5-2,8740,4575,,47100,3450,3254,,156,97.7,34.7,41.2,
-Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 5-3,7360,4604,,48900,3513,3950,,166,90.7,36,41.5,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-3 2-2,2457,5280,,21570,3621,2634,,395,38,75.5,29,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-3 2-1,2467,3560,,19690,3129,2481,,297,36.6,70.9,29.1,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-3 2-3,3030,3030,,17400,2937,2221,,161,45.1,69.4,29.7,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-1-1,2381,5038,,19670,2751,2991,,308,39.8,66.8,33.4,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-2-3,4370,4600,,21280,3503,2640,,346,69.9,70.2,40.5,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-3-1,4710,4810,,21600,3494,2702,,368,71.6,75.1,38.3,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-3-2,4689,4835,,21520,3486,2671,,304,65.1,74.8,38,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-4-1,3922,5080,,22520,3632,2879,,326,61,74,41.2,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-4-2,3358,5147,,21340,3585,2802,,410,54.4,73.8,41.1,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-4-3,3397,5090,,22790,3630,2890,,332,54.8,73.6,42.4,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-4-4,3605,5158,,21940,3756,2953,,293,56.7,72.4,43.2,
-Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-4-5,2951,5013,,21720,3882,2922,,344,49.7,73.1,40.7,
-Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Disseminated ore,NW8-2 1-2,495,788,,4150,2913,512,50.2,15.6,15.6,12.6,12.3,
-Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Disseminated ore,NW8-2 2-3,331,932,800,5150,2817,879,56,20.7,12.4,15.7,16.8,
-Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Disseminated ore,NW8-2 4-2,625,873,890,5540,3031,1172,30,21.3,15.9,17.6,13.2,
-Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Disseminated ore,NW8-2 4-6,812,917,1310,1180,2690,576,29.4,24.2,12.1,16.1,13.9,
-Taocun,IOA,Altered low-Ti magnetite,Zeng et al 2022,Disseminated ore,NW99-2 1-4,343,628,,7010,832,403,17.4,6.07,16.5,137,9.15,
-Taocun,IOA,Altered low-Ti magnetite,Zeng et al 2022,Disseminated ore,NW99-2 2-1,282,346,0,9050,789,227,19.4,2.52,12.1,103,10.2,
-Taocun,IOA,Altered low-Ti magnetite,Zeng et al 2022,Disseminated ore,NW99-2 2-2,351,428,0,9740,818,232,26.5,3.52,13.2,125,10.5,
-Taocun,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW46 1-2,92,467,0,15660,3215,1096,202,21.1,35.4,21.7,8.12,
-Taocun,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW46 1-5,87.6,425,0,13470,2928,810,152,17.6,30.2,20,7.74,
-Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW7-1-2,172,1506,0,18090,3712,1670,18.1,97.1,38.1,23.7,15.7,
-Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW7 3-3,292,1023,0,8620,2313,1793,,63,43.9,19.2,16.1,
-Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW7-2-2,164,827,0,19860,3736,1179,19.5,30.1,44.5,19.2,15.8,
-Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW7 2-3,209,853,0,9440,3421,696,54,34,47.3,19.5,16.5,
-Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW-7-3M 3-3,184,812,0,6990,3456,808,22.3,26.7,50.9,20.4,15,
-Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW-7-3M 3-4,215,674,0,10660,3460,963,91.1,38,51.2,18.5,17.7,
-Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Massive ore,17WS21 1-1,97,210,600,11160,3006,344,38.8,11.3,37.2,22.9,11.6,
-Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Massive ore,17WS21 1-2,82.8,942,,17720,3551,796,17.1,36.3,41,24.1,20.1,
-Taocun,IOA,Altered low-Ti magnetite,Zeng et al 2022,Vein ore,NW18-2-1,1985,2537,,860,3115,682,,118,62.8,71,39.4,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-1-4M-4 ,396,2526,15767,206,66,731,22,40,59,11,23,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-3-1M ,2888,2095,18569,425,64,1687,1,94,62,10,34,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-4-12M ,5073,12422,30287,376,66,1759,,111,66,11,45,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-5-16M ,1838,920,14021,205,41,1194,5,52,59,10,17,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-5-17M ,2267,921,13253,201,44,1348,,59,65,11,18,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-5-19M ,2916,1104,16557,377,40,1648,,75,63,11,23,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-8-25M ,558,970,6084,93,76,686,,33,62,10,16,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-8-27M ,552,2572,13857,517,66,1375,4,83,63,11,36,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-9-34M ,2798,1487,13375,368,63,1520,,87,65,11,29,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-11-19M ,1838,2003,13184,546,51,1663,,94,57,9,31,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-11-22M ,3399,1083,15521,466,40,1831,,93,64,13,27,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-2-13M-1 ,2161,1023,16509,97,3,1245,0.74,93,50,7,40,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-3-4M-1 ,2178,715,13121,52,4,1160,1.11,70,48,8,30,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-3-4M-2 ,1118,3437,14294,416,60,1099,,98,139,14,49,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-3-7M-1 ,2071,983,12028,162,21,1174,,70,50,11,27,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-3-7M-2 ,2763,1300,21911,76,8,1323,7.89,75,49,10,35,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-7-24M ,1466,1416,12985,65,9,1134,,77,48,9,36,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-7-25M ,1875,664,12647,14,1,1061,1.83,72,46,4,33,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-8-33M ,3056,1229,17950,44,6,1380,,87,49,4,39,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-4M ,1681,2400,22542,281,58,1616,0.6,64,72,12,54,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-5M ,2086,2437,24471,257,59,1735,,64,77,13,57,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-2-11M-1 ,85,738,1489,138,49,677,,23,64,14,15,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-4-12M ,966,1021,19630,155,53,1259,0.4,47,73,12,39,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-4-14M ,697,898,15728,146,50,1072,,43,69,12,31,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-5-16M ,1151,1470,21439,200,53,1209,1,54,72,12,42,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-5-18M ,1036,1379,20364,202,54,1180,0.6,54,69,12,42,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-6-22M ,937,1726,13739,257,18,1746,,86,70,14,55,
-Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-6-23M-2 ,653,1338,11853,215,39,1450,,64,67,13,37,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F8-4-11M ,160,560,1946,55,48,593,,28,63,7,11,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F8-9-35M ,844,976,3949,63,54,634,1.68,36,63,12,11,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-1-1M ,21,187,841,114,46,1494,,58,73,13,9,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-1-3M ,12,173,752,138,53,1548,,65,71,14,8,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-3-10M ,259,1043,3005,220,28,1963,,119,74,14,13,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-4-12M ,106,551,2355,199,39,1693,,99,74,13,11,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-4-13M ,123,825,2933,83,30,1412,,89,69,12,9,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-4-17M ,178,697,1684,69,10,1416,1.1,82,72,9,9,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-5-19M ,14,149,1235,103,54,1508,0.3,64,69,16,10,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-5-20M ,94,255,898,120,49,1576,,73,71,15,13,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-6-21M ,129,400,1636,122,51,1556,,80,74,16,12,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-7-22M ,111,432,1462,170,48,1626,,86,74,16,13,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-9-23M ,94,407,1973,155,53,1627,0.4,117,72,16,12,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-10-25M ,110,414,1576,120,54,1524,0.3,65,74,15,11,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F16-2-10M ,23,149,1173,60,84,465,0.6,22,49,17,9,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F16-3-5M ,66,305,1905,97,90,474,,20,48,15,9,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F16-3-6M ,125,542,2863,185,110,500,2.1,26,47,15,11,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F16-7-26M ,83,458,2662,170,47,528,1.6,34,45,13,13,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F16-8-32M ,17,146,628,85,71,423,,21,45,14,8,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F18-3M ,147,404,2388,45,63,603,1,18,68,16,11,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F18-2-7M ,784,2032,8887,340,61,1081,,44,69,14,29,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F18-2-11M-2 ,34,187,1293,25,46,569,,17,65,15,10,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F18-6-23M-1 ,1697,4010,15635,231,42,1720,,80,78,15,48,
-Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F18-6-25M ,488,1428,6078,95,51,955,,37,70,14,24,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-8-mag,30,141,,779,42,480,0,58,24,28,13,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-10-mag,4,31,,861,41,473,55.8,54,24,31,13,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-7-mag,376,1497,,269,51,503,0,56,21,26,13,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-6-mag,19,56,,776,45,539,0,62,23,35,14,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-11-mag,57,188,,799,45,701,7,57,26,30,13,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-12-mag,3,19,,903,47,498,0,48,24,28,13,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-14-mag,7,34,,727,45,663,0,50,24,28,12,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-15-mag,58,285,,875,42,668,0,62,24,32,15,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-16-mag,166,345,,1256,40,695,32.9,60,25,33,15,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-17-mag,11,71,,1427,36,677,11.2,53,23,28,14,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-19-mag,26,64,,757,53,525,19.7,49,25,31,14,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-20-mag,82,75,,912,46,502,0,60,26,28,14,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-1M,27,726,,412,102,340,13.3,232,10,9,18,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-3M,76,1769,,332,95,540,9.4,751,19,8,18,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-6M,184,1281,,435,95,533,3.6,425,20,9,19,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-18M,953,1978,,70,80,621,3,47,18,19,14,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-19M,343,2582,,370,87,524,0.5,36,20,19,12,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-20M,130,469,,444,86,513,1.1,41,20,21,11,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-23M,996,1989,,319,97,424,5,261,18,9,15,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-25M,370,1456,,1254,100,442,12.5,37,16,10,13,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2038-1M,136,397,,1045,295,871,0.8,57,67,39,17,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2038-2M,121,253,,1114,288,853,0.8,50,66,41,16,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2038-3M,264,431,,1245,284,851,1.4,57,67,38,18,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2038-5M,493,884,,1522,293,981,0.6,50,67,41,17,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2038-6M,629,896,,1430,296,1058,,104,63,35,18,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-1M,50,641,,2534,101,1428,10.6,24,53,10,14,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-5M,16,2685,,3055,108,1824,7.3,2402,54,8,12,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-6M,84,3085,,3165,110,1721,18.4,1300,53,9,35,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-2M,257,8973,,2806,97,1616,2.3,822,54,5,101,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-3M,1039,8449,,2755,101,1841,4.1,509,56,7,75,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-4M,29,3279,,3410,97,1838,10.3,690,52,7,58,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-8M,28,2937,,2723,103,1522,14.1,21,51,12,14,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-11M,171,1880,,1434,81,854,0.3,152,52,9,33,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-12M,78,1578,,2017,85,1226,2,66,52,7,36,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-13M,16,1630,,3515,99,1853,15.3,563,48,7,28,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-1M,17,193,,277,323,468,5,28,40,37,16,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-2M,16,358,,2071,335,1133,5.3,26,39,34,15,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-3M,14,260,,1981,343,1137,7.5,29,41,35,16,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-4M,10,168,,2043,327,1268,9,30,42,38,15,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-5M,140,638,,1965,315,974,3.5,37,44,37,18,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-6M,10,402,,1722,329,855,2.9,36,42,38,17,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-7M,119,584,,1870,333,883,3.8,30,42,38,18,
-Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-8M,34,356,,1800,332,966,5.7,26,42,39,17,
-Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-1,850 ,866 ,14842 ,41.7 ,12.3 ,4310 ,9.36 ,148 ,1.52 ,,9.09 ,712455.1 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-2,252 ,337 ,6387 ,71.4 ,9.36 ,3854 ,3.39 ,89.3 ,7.20 ,,6.13 ,712945.4 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-3,62.5 ,201 ,3246 ,65.6 ,36.5 ,3102 ,2.54 ,789 ,7.52 ,1.30 ,5.80 ,712455.1 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-4,261 ,391 ,8535 ,74.6 ,33.7 ,3625 ,3.93 ,169 ,3.20 ,,6.83 ,712044.9 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-5,114 ,255 ,3759 ,62.9 ,33.2 ,2199 ,58.2 ,2898 ,3.69 ,1.39 ,4.49 ,728514.9 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-6,133 ,363 ,5913 ,92.6 ,14.0 ,4122 ,4.00 ,382 ,4.98 ,,6.56 ,724612.5 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-7,2338 ,609 ,23958 ,108 ,21.9 ,7671 ,64.5 ,224 ,5.38 ,3.04 ,6.78 ,724612.5 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-8,42.5 ,109 ,2493 ,50.3 ,37.4 ,1095 ,81.7 ,35.3 ,1.50 ,1.48 ,5.52 ,724612.5 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS150-4-1,29.3 ,821 ,15011 ,96.5 ,23.8 ,4638 ,122 ,1926 ,13.6 ,1.72 ,5.12 ,716977.9 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS150-4-2,108 ,512 ,10672 ,72.3 ,30.4 ,2698 ,93.2 ,1148 ,11.7 ,1.07 ,3.35 ,716977.9 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS150-4-3,15.3 ,143 ,4448 ,51.2 ,4.55 ,4413 ,20.2 ,151 ,10.9 ,2.40 ,3.72 ,714046.1 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS150-4-4,23.2 ,92.5 ,3425 ,28.9 ,21.8 ,4475 ,13.3 ,98.5 ,15.0 ,1.21 ,3.52 ,717658.3 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS150-4-5,33.2 ,265 ,2902 ,30.4 ,20.8 ,2570 ,175 ,33.0 ,12.5 ,1.35 ,2.75 ,717658.3 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS110-9-1,167 ,1069 ,13730 ,84.7 ,23.1 ,3908 ,12.4 ,12262 ,22.2 ,15.4 ,5.06 ,705080.6 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS110-9-2,148 ,922 ,14521 ,65.4 ,7.57 ,3870 ,8.99 ,1159 ,13.3 ,2.28 ,5.16 ,705080.6 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS110-9-3,128 ,349 ,11612 ,14.0 ,7.93 ,2962 ,40.2 ,303 ,21.1 ,1.24 ,3.55 ,700657.9 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS110-9-4,154 ,792 ,13815 ,96.7 ,25.5 ,3835 ,77.1 ,1129 ,19.2 ,16.8 ,3.88 ,697185.8 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS110-9-5,77.4 ,643 ,14430 ,121 ,14.1 ,6355 ,18.8 ,231 ,15.4 ,2.68 ,3.88 ,697185.8 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS110-9-6,176 ,823 ,13638 ,100 ,15.8 ,3691 ,109 ,3956 ,24.2 ,3.72 ,3.65 ,700307.7 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS110-9-7,148 ,938 ,15143 ,95.9 ,3.47 ,4566 ,54.5 ,1193 ,21.1 ,1.55 ,4.41 ,700307.7 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS90-2-1,1824 ,3417 ,19365 ,306 ,105 ,4148 ,92.2 ,1612 ,10.6 ,65.7 ,5.00 ,703929.9 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS90-2-2,4329 ,6230 ,27494 ,327 ,115 ,6101 ,305 ,2342 ,5.96 ,26.1 ,7.67 ,686369.2 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS90-2-3,1718 ,3474 ,19938 ,216 ,88.7 ,2849 ,47.8 ,2023 ,5.25 ,28.2 ,6.87 ,686369.2 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS50-8-1,32.8 ,569 ,9126 ,1.43 ,1.89 ,7381 ,10.2 ,361 ,4.93 ,4.64 ,10.1 ,708862.9 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS50-8-2,39.0 ,1052 ,10609 ,430 ,106 ,7498 ,10.9 ,180 ,6.15 ,8.51 ,11.5 ,708862.9 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS50-8-3,76.4 ,177 ,5303 ,22.3 ,13.2 ,3987 ,58.3 ,267 ,6.68 ,2.96 ,3.48 ,697856.2 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS50-8-4,80.1 ,242 ,4995 ,13.4 ,15.6 ,3379 ,58.0 ,2112 ,17.2 ,11.6 ,3.12 ,697856.2 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS30-5-1,3009 ,4048 ,15872 ,61.9 ,117 ,1297 ,135 ,886 ,14.3 ,10.5 ,5.97 ,717468.2 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS30-5-2,3169 ,4485 ,21559 ,128 ,112 ,1631 ,65.3 ,1319 ,8.87 ,21.8 ,6.66 ,717468.2 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS30-5-3,3082 ,3965 ,21504 ,304 ,104.5 ,1812 ,201 ,1018 ,9.66 ,34.0 ,6.71 ,717468.2 
-Dingjiashan,Skarn,,Xing et al 2022,,DJS30-5-4,9368 ,9300 ,33115 ,306 ,157 ,3134 ,437 ,381 ,8.19 ,29.2 ,6.82 ,717468.2 
-Dingjiashan,Skarn,,Xing et al 2022,,DJSm10-5-1,1264 ,3560 ,30967 ,52.1 ,52.8 ,5846 ,250 ,80.6 ,4.29 ,0.45 ,18.0 ,721770.8 
-Dingjiashan,Skarn,,Xing et al 2022,,DJSm10-5-2,2072 ,6082 ,15809 ,43.8 ,48.7 ,2796 ,52.2 ,88.5 ,13.9 ,0.42 ,18.9 ,721770.8 
-Dingjiashan,Skarn,,Xing et al 2022,,DJSm10-5-3,684 ,1568 ,15791 ,34.2 ,26.5 ,3982 ,55.7 ,57.7 ,4.52 ,0.29 ,20.3 ,708032.4 
-Dingjiashan,Skarn,,Xing et al 2022,,DJSm10-5-4,425 ,1117 ,15393 ,30.6 ,29.6 ,6224 ,232 ,1215 ,4.32 ,0.280 ,19.2 ,708032.4 
-Dingjiashan,Skarn,,Xing et al 2022,,DJSm10-5-5,1727 ,4191 ,30750 ,47.2 ,35.2 ,8154 ,347 ,67.0 ,12.8 ,0.43 ,20.0 ,708032.4 
-Dingjiashan,Skarn,,Xing et al 2022,,DJSm30-1-1,992 ,2804 ,22900 ,370 ,13.7 ,2018 ,175 ,421 ,4.23 ,6.10 ,12.8 ,694474.1 
-Dingjiashan,Skarn,,Xing et al 2022,,DJSm30-1-2,2051 ,5033 ,26748 ,356 ,14.1 ,1655 ,134 ,159 ,4.79 ,5.65 ,15.7 ,694474.1 
-Dingjiashan,Skarn,,Xing et al 2022,,DJSm30-1-3,1815 ,4795 ,28443 ,299 ,13.6 ,1636 ,126 ,113.6 ,5.33 ,5.74 ,15.4 ,694113.9 
-Dingjiashan,Skarn,,Xing et al 2022,,DJSm30-1-4,570 ,1287 ,19407 ,74.3 ,4.82 ,2432 ,17.6 ,1824 ,5.61 ,0.41 ,15.9 ,701078.2 
-Dingjiashan,Skarn,,Xing et al 2022,,DJSm30-1-5,401 ,1006 ,16823 ,40.1 ,2.05 ,1093 ,8.38 ,2079 ,6.14 ,0.95 ,16.5 ,701078.2 
-Fengyan,Skarn,,Xing et al 2022,,FY280-6-1,24.6 ,412 ,2708 ,42.9 ,95.6 ,2700 ,6.48 ,4389 ,32.6 ,5.56 ,2.94 ,705941.1 
-Fengyan,Skarn,,Xing et al 2022,,FY280-6-2,27.9 ,112 ,5511 ,20.4 ,20.1 ,4408 ,19.5 ,12910 ,107 ,8.96 ,2.32 ,705941.1 
-Fengyan,Skarn,,Xing et al 2022,,FY280-6-3,3.33 ,109 ,3049 ,5.02 ,5.80 ,3480 ,9.40 ,464 ,22.7 ,16.75 ,2.78 ,708442.7 
-Fengyan,Skarn,,Xing et al 2022,,FY280-6-4,7.42 ,145 ,3122 ,8.80 ,7.01 ,2983 ,36.8 ,503 ,20.5 ,10.44 ,2.58 ,708442.7 
-Fengyan,Skarn,,Xing et al 2022,,FY260-5-1,62.6 ,194 ,6992 ,33.2 ,50.2 ,2818 ,42.2 ,5029 ,6.93 ,0.58 ,3.50 ,704870.5 
-Fengyan,Skarn,,Xing et al 2022,,FY260-5-2,145 ,506 ,9029 ,74.3 ,53.4 ,2557 ,57.4 ,3848 ,6.34 ,0.53 ,3.99 ,704870.5 
-Fengyan,Skarn,,Xing et al 2022,,FY260-5-3,136 ,485 ,10375 ,20.8 ,37.4 ,5029 ,4.82 ,1618 ,7.90 ,1.24 ,4.04 ,704870.5 
-Fengyan,Skarn,,Xing et al 2022,,FY260-5-4,414 ,1577 ,19230 ,8.59 ,32.3 ,3283 ,9.75 ,284 ,1.74 ,0.17 ,6.30 ,699847.4 
-Fengyan,Skarn,,Xing et al 2022,,FY260-5-5,286 ,756 ,9200 ,41.6 ,29.5 ,2990 ,17.4 ,9473 ,2.10 ,0.59 ,3.89 ,699847.4 
-Fengyan,Skarn,,Xing et al 2022,,FY260-5-6,377 ,1531 ,19061 ,1.59 ,21.4 ,3014 ,18.0 ,210 ,1.92 ,0.17 ,7.33 ,699847.4 
-Fengyan,Skarn,,Xing et al 2022,,FY260-5-7,31.6 ,92.8 ,5695 ,7.15 ,18.4 ,1731 ,,230 ,1.32 ,0.23 ,2.33 ,717958.5 
-Fengyan,Skarn,,Xing et al 2022,,FY260-5-8,38.9 ,61.3 ,4817 ,10.3 ,27.2 ,1407 ,63.7 ,173 ,1.33 ,,2.05 ,717958.5 
-Fengyan,Skarn,,Xing et al 2022,,FY260-5-9,489 ,1817 ,20987 ,2.59 ,37.0 ,3481 ,32.3 ,716 ,1.09 ,,7.09 ,717958.5 
-Fengyan,Skarn,,Xing et al 2022,,FY240t-5-1,17.8 ,2459 ,1206 ,3.73 ,39.2 ,1559 ,99.4 ,51.6 ,0.87 ,,3.05 ,714156.2 
-Fengyan,Skarn,,Xing et al 2022,,FY240t-5-2,87.5 ,349 ,3948 ,5.74 ,0.82 ,2044 ,105 ,164 ,42.1 ,1.41 ,8.75 ,714156.2 
-Fengyan,Skarn,,Xing et al 2022,,FY240t-5-3,15.1 ,127 ,5831 ,9.56 ,2.47 ,4433 ,21.0 ,53.8 ,2.86 ,,5.17 ,719779.6 
-Fengyan,Skarn,,Xing et al 2022,,FY240t-5-4,15.6 ,87.1 ,6400 ,7.53 ,1.93 ,2849 ,24.8 ,34.6 ,3.93 ,,3.62 ,719779.6 
-Fengyan,Skarn,,Xing et al 2022,,FY240t-5-5,36.1 ,287 ,4055 ,3.35 ,1.90 ,1900 ,38.2 ,92.1 ,2.07 ,,4.80 ,719779.6 
-Fengyan,Skarn,,Xing et al 2022,,FY240t-5-6,987 ,2493 ,10742 ,69.4 ,66.0 ,2556 ,377 ,84.1 ,0.44 ,0.55 ,5.95 ,717508.2 
-Fengyan,Skarn,,Xing et al 2022,,FY200-21-1,149 ,384 ,4304 ,15.7 ,6.82 ,1248 ,76.1 ,615 ,23.9 ,2.12 ,4.93 ,713785.9 
-Fengyan,Skarn,,Xing et al 2022,,FY200-21-2,2118 ,1624 ,19848 ,35.4 ,14.3 ,3838 ,147 ,272 ,21.7 ,2.75 ,5.17 ,713785.9 
-Fengyan,Skarn,,Xing et al 2022,,FY200-21-3,113 ,679 ,4082 ,22.2 ,13.7 ,2888 ,115 ,1320 ,17.6 ,5.28 ,5.14 ,706841.7 
-Fengyan,Skarn,,Xing et al 2022,,FY200-21-4,358 ,751 ,5487 ,51.5 ,7.04 ,1123 ,189 ,1833 ,22.0 ,3.69 ,5.33 ,706841.7 
-Fengyan,Skarn,,Xing et al 2022,,FY200-21-5,559 ,1308 ,6492 ,49.5 ,5.73 ,1530 ,222 ,6733 ,30.8 ,2.77 ,5.03 ,706841.7 
-Fengyan,Skarn,,Xing et al 2022,,FY200-21-6,754 ,853 ,8741 ,68.4 ,4.84 ,1776 ,149 ,155 ,21.5 ,4.18 ,4.80 ,706841.7 
-Fengyan,Skarn,,Xing et al 2022,,FY200-21-7,116 ,285 ,6052 ,15.9 ,3.50 ,1311 ,251 ,418 ,17.3 ,2.75 ,3.77 ,706841.7 
-Fengyan,Skarn,,Xing et al 2022,,FY200-38-1,36.0 ,196 ,6226 ,16.2 ,0.99 ,4409 ,15.9 ,16471 ,49.8 ,1.51 ,7.26 ,722131.0 
-Fengyan,Skarn,,Xing et al 2022,,FY200-38-2,14.1 ,201 ,8085 ,12.3 ,1.54 ,2526 ,139 ,8.19 ,5.97 ,0.88 ,0.21 ,722131.0 
-Fengyan,Skarn,,Xing et al 2022,,FY200-38-3,3.94 ,209 ,1654 ,35.4 ,5.38 ,1808 ,10.2 ,1.89 ,,0.06 ,0.27 ,716407.5 
-Fengyan,Skarn,,Xing et al 2022,,FY200-38-4,2.38 ,561 ,2475 ,60.9 ,9.81 ,3395 ,21.0 ,2.17 ,1.11 ,,0.36 ,716407.5 
+Location,Model,Type,Reference,Lithology,Sample,Mg,Al,Si,Ti,V,Mn,Cr,Zn,Co,Ni,Ga
+Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_fresh,EC661-279_5-mag1-1,452.03,26.43,5839.26,22.88,1.89,14.02,1.09,3.26,0.76,0.67,0.17
+Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_fresh,EC661-279_5-mag1-2,386.82,35.69,7702.64,22.58,1.99,11.79,,5.21,1.13,0.96,0.21
+Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_fresh,EC661-279_5-mag1-3,414.58,12.01,5469.8,20.78,2.06,19.41,1.89,4.6,0.99,0.83,0.21
+Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_fresh,EC661-279_5-mag1-4,450.51,22.03,10525.21,18.84,1.79,11.11,,4.15,2.26,0.68,0.2
+Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_fresh,EC661-279_5-mag1-5,325.9,19.8,3748.16,17.25,1.45,16.21,4.51,4.39,0.49,0.58,0.16
+Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_fresh,EC661-279_5-mag1-6,409.13,29.03,3869.57,21.86,2.46,18.34,1.27,4.61,0.58,0.85,0.24
+Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_fresh,EC661-279_5-mag1-7,382.21,18.68,3395.34,15.27,1.51,12.76,0.68,4.99,0.6,,0.16
+Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_carb(sid-dol)-sil,EC661-279-7-1,193.57,21.06,3122.71,29.75,6.24,22.91,0.52,1.77,0.19,1.11,0.32
+Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_carb(sid-dol)-sil,EC661-279-7-2,196.11,18.38,4363.23,31.47,6.65,25.18,0.64,2.44,0.24,1.31,0.31
+Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_carb(sid-dol)-sil,EC661-279-7-3,162.13,26.85,3026.85,29.28,6.27,17.96,0.61,1.23,0.21,0.7,0.32
+Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_carb(sid-dol)-sil,EC661-279-7-4,140.16,21.58,2806.95,30.65,8.51,21.27,1.44,1.08,0.32,0.86,0.27
+Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_carb(sid-dol)-sil,EC661-279-7-5,160.38,18.46,2789.43,30.33,5.85,23.8,0.76,,0.24,0.88,0.23
+Dales Gorge,BIF,BrIF_Regional,Angerer et al 2022,BIF_carb(sid-dol)-sil,EC661-279-7-6,131.79,20.29,3714.46,35.55,7.18,15.89,1.32,1.44,0.27,1.01,0.29
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499219-10,459.32,22.74,,54.84,6.15,37.16,8.84,3.04,,3.56,2.39
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499219-11,518.81,77.68,,62.67,5.22,32.33,,14.56,3.53,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499219-2,402.23,34.58,,64.18,4.14,42.75,,,1.35,,4.93
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499219-3,343.82,16.86,,72.58,4.9,79.04,,,,19.02,5.2
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499219-6,375.73,34.07,,6.97,2.79,50.91,15.08,,,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499219-8,205.51,7.21,,38.97,5.54,32.77,,,0.92,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499242-10,225.43,42.22,,28.45,4.71,63.75,,13.28,1.8,6.84,1.66
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499242-11,1145.82,49.44,,0.8,3.33,56.89,1.24,8.21,1.3,,0.13
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499242-14,258.63,21.45,,17.17,3.91,52.2,19.95,11.04,0.52,10.74,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499242-17,636.48,42.37,,1,3.14,56.73,,4.93,,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499242-20,314.87,19.23,,11.97,2.93,64.13,5.81,13.95,,2.64,0.46
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(ank)-sil,6499242-5,807.05,150.8,,27.82,4.74,59.37,,23.51,3.09,5.38,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499315-10,1092.8,223.25,,100.11,40.51,69.24,52.7,3.21,2.59,6.31,2.22
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499315-4,289.13,134.07,,46.75,17.22,6.41,51.74,2.62,0.61,3.21,1.75
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499315-6,95.95,5.36,,38.02,15.49,18.28,47.71,7.37,1.92,2.45,2.57
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-1,104.59,40.67,,,6.14,,,15.68,2.29,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-10,219.34,1294.71,,2.32,3.57,45.45,4.39,16.48,0.43,0.44,0.42
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-11,21.59,1161.33,,,3.83,44.86,10.73,4.57,0.33,,0.26
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-16,34.52,898.25,,1.32,3.25,21.08,2.09,4.56,,1.11,0.37
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-17,152.46,1137.5,,,3.2,33.71,1.07,14.29,0.08,1.18,0.5
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-19,77.29,756.94,,1.49,3.06,19.67,2.61,3.96,0.1,1.16,0.34
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-2,94.89,7.45,,16.52,3.67,23.57,23.62,,,,1.24
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-3,132.48,425.88,,14.69,4.2,0.63,17.53,6.51,1.88,3.38,3.79
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-4,88.42,1.99,,,0.46,9.9,7.63,2.92,2.33,0.22,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-5,44.35,7.8,,4.89,,,27.32,,0.98,,0.49
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-6,35.82,242.54,,,1.45,,,11.68,3.89,7.05,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-7,30.24,4.38,,12.09,1.76,5.2,40.8,6.35,0.82,1.06,2.01
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_carb(sid)-sil,6499317-8,85.33,12.64,,40.42,0.67,18.05,6.21,2.17,,4.48,0.84
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G1186-139-001,103.67,60.71,,24.29,5.1,,,,2.2,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G1186-139-002,184.64,37.74,,28.56,4.39,37.68,,,2.57,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G1186-139-003,210.6,17.6,,34.58,4.88,44.83,,,2.04,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G1186-139-004,178.26,87.55,,30.76,5.11,28.78,,,2.36,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G1186-139-005,135.83,6.07,,28.47,4.3,54.14,,,1.24,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G1186-139-006,143.61,92.32,,29.92,4.37,32.85,,,2.14,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_fresh,G831-329-001,208.96,61.45,,37.79,4.49,46.49,,,0.61,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_fresh,G831-329-002,180.03,85.72,,36.14,4.77,42.84,,,1.02,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_fresh,G831-329-003,398.65,261.08,,36.39,4.9,50.86,,,0.98,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_fresh,G831-329-004,239.07,58.05,,30.19,4.49,48.47,,,0.95,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_fresh,G831-329-006,157.98,41.43,,32.89,5.46,40.04,,,1.1,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_fresh,G831-329-007,298.38,127.22,,31.78,5.62,36.74,,,1.07,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_fresh,G831-329-009,346.41,65.87,,27.48,4.74,36.01,,,0.92,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-329-010,192.45,153.73,,37.45,5.01,57.44,,,0.92,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-001,691.72,141.92,,61.85,7.97,807.33,,,0.51,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-002,688.67,213.24,,50.83,10.12,514.11,,,0.38,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-003,1236.88,291.46,,62.86,10.62,823.75,,,0.48,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-004,1674.05,291.33,,48.01,12.42,692.04,,,0.6,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-005,1638.41,269.85,,51.66,11.83,767.67,,,0.49,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-006,2409.42,335.03,,54.39,11.75,640.6,,,0.51,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-007,1238.57,272.81,,46.51,15.3,514.88,,,0.68,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-008,813.96,131.84,,48.68,8.8,482.74,,,0.78,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-009,592.75,365.48,,45.31,16.14,548.75,,,0.64,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-010,531.83,233,,48.8,14.49,656.61,,,0.84,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-011,669.73,81.82,,48.15,5.34,349.78,,,0.4,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-012,346.27,73.82,,59.82,6.3,257.03,,,0.43,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G831-459-013,1411.92,214.14,,66.34,10.33,642.22,,,0.56,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-001,115.68,538.67,,2.97,3.39,67.96,,,0.48,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-002,141.04,639.25,,4.23,3.45,71.09,,,0.51,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-003,133.77,484.82,,2.51,3.28,136.16,,,0.48,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-004,165.92,376.87,,2.95,2.26,68.93,,,0.54,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-005,170.07,114.91,,1.07,2.15,129.96,,,0.58,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-006,100.9,179.73,,2.37,1.85,59.62,,,0.65,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-007,117.32,128.64,,1.29,2.1,53.04,,,0.51,,
+Dales Gorge,BIF,BrIF_H-mplH,Angerer et al 2022,BIF_oxidised,G907-321-008,122.26,331.36,,2.02,2.07,56.38,,,0.47,,
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Disseminated ore,NW8-2 3-5,183,1123,,19850,3383,4120,21.9,84.1,11.3,20.8,21.4
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Disseminated ore,NW8-2 2-1,206,1470,640,19250,3333,3346,16.8,76.6,9.05,18.1,26
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Disseminated ore,NW8-2 4-3,311,1058,,16190,2964,2890,28.1,28.2,11.4,22.2,17
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Disseminated ore,NW8-2 4-1,165,786,,14920,3302,2178,33.4,20.2,14.5,15.1,16
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Disseminated ore,NW99-2 1-6,322,905,,13690,914,278,20.3,5,15.3,160,9.8
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Disseminated ore,NW99-2 1-7,347,1832,,14760,870,355,22.7,31.1,15.8,169,12.8
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Disseminated ore,NW99-2 1-10,320,1671,,13170,881,367,22.8,14,16.4,174,12.2
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW46 1-3,110,1525,,17590,3399,1567,150,59,41,27.3,15.2
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW46 2-1,115,1785,,17450,3440,1853,71.4,109,39.6,28.8,16.6
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW46 2-2,137,1139,,16000,3347,1479,134,42.1,36.3,24.1,10.6
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW7-2-1,409,2380,,27430,3688,950,,122,26.8,23.8,24.5
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW7 3-1,273,2299,,29600,3651,1033,,74.5,44.3,28.2,21.3
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 2-4,329,3917,,34900,3741,572,,281,29.6,31,29.7
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 3-5,429,2542,,29960,3807,1080,70.3,206,18.9,27.8,31
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 2-6,364,3585,,34080,3708,574,16.3,312,25.6,32.6,30.1
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 1-4,217,3611,,33150,3309,702,63.6,261,44.7,30.4,23.5
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 1-5,374,4229,,32850,3356,648,14.9,264,48.1,31.5,29
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 2-3,399,3684,,33580,3641,633,7.4,355,30.6,32.1,28.7
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 1-2,293,4153,,35230,3339,780,115,381,44.2,33,25.3
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 1-3,262,2998,,33640,3292,1818,57.8,224,48.4,28.7,19.4
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 2-8,487,4303,,34290,3705,821,,324,27,32.6,35.8
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Brecciated ore,NW-7-3M 2-5,431,3944,,35180,3759,791,,185,23,29.9,34.3
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,NW84 1-5,1497,1312,,25800,2411,2558,,40.1,46,41.4,33.3
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,NW84 1-7,1499,1295,,22890,2481,2330,,37.1,47.6,40.8,33.2
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,NW84 1-9,1544,1243,,23000,2407,2429,,39.4,46.8,42.3,33.5
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,NW84-2 3,1678,1628,433,24490,2388,2452,,38.9,47.6,44.4,35.6
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,NW84-2 4,1749,1538,339,32770,2348,3146,3.36,37.8,43.8,44.1,35
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,17WS21 1-3,292,2971,,28170,3712,658,8.3,204,49.6,30,37.4
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,17WS21 1-5,294,2771,610,27960,3719,671,36,274,48.5,31.6,37.5
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,17WS21 2-1,562,2983,760,27670,3714,4225,,439,55.6,29.6,37.2
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Massive ore,17WS21 2-3,103,1323,,22960,3683,3894,20.3,49.9,45.7,25.1,29.7
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 1-1,1417,4500,,42280,3793,2692,14.7,177,72.1,33.5,46
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 1-4,2197,4437,603,39500,3764,1858,5.1,182,78.7,34.1,46
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 1-6,1778,4478,,41830,3759,1607,7.7,216,88.1,34.4,43.7
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 2-3,2281,4718,159,43230,3797,3836,11.2,394,56.6,32.5,40
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW733-1,6040,4765,335,40990,3825,2797,33.9,162,86.5,34.2,42.6
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 3-2,3278,4622,203,41190,3760,3638,28.1,208,77.7,33.7,43.1
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 5-1,8170,4840,278,47200,3758,2739,28,161,96.9,35,43.2
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 5-4,4607,4686,130,46250,3745,3156,33.7,196,80.8,35.5,42.8
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 1-2,1407,4292,170,44000,3781,3430,10.3,275,77.7,33.1,44.3
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 1-3,2340,4180,683,42100,3727,3090,7.5,170,78.2,34.2,43.1
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 5-2,8740,4575,,47100,3450,3254,,156,97.7,34.7,41.2
+Washan,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,14NW73 5-3,7360,4604,,48900,3513,3950,,166,90.7,36,41.5
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-3 2-2,2457,5280,,21570,3621,2634,,395,38,75.5,29
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-3 2-1,2467,3560,,19690,3129,2481,,297,36.6,70.9,29.1
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-3 2-3,3030,3030,,17400,2937,2221,,161,45.1,69.4,29.7
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-1-1,2381,5038,,19670,2751,2991,,308,39.8,66.8,33.4
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-2-3,4370,4600,,21280,3503,2640,,346,69.9,70.2,40.5
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-3-1,4710,4810,,21600,3494,2702,,368,71.6,75.1,38.3
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-3-2,4689,4835,,21520,3486,2671,,304,65.1,74.8,38
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-4-1,3922,5080,,22520,3632,2879,,326,61,74,41.2
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-4-2,3358,5147,,21340,3585,2802,,410,54.4,73.8,41.1
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-4-3,3397,5090,,22790,3630,2890,,332,54.8,73.6,42.4
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-4-4,3605,5158,,21940,3756,2953,,293,56.7,72.4,43.2
+Taocun,IOA,Unaltered high-Ti Mag,Zeng et al 2022,Vein ore,NW18-4-5,2951,5013,,21720,3882,2922,,344,49.7,73.1,40.7
+Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Disseminated ore,NW8-2 1-2,495,788,,4150,2913,512,50.2,15.6,15.6,12.6,12.3
+Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Disseminated ore,NW8-2 2-3,331,932,800,5150,2817,879,56,20.7,12.4,15.7,16.8
+Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Disseminated ore,NW8-2 4-2,625,873,890,5540,3031,1172,30,21.3,15.9,17.6,13.2
+Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Disseminated ore,NW8-2 4-6,812,917,1310,1180,2690,576,29.4,24.2,12.1,16.1,13.9
+Taocun,IOA,Altered low-Ti magnetite,Zeng et al 2022,Disseminated ore,NW99-2 1-4,343,628,,7010,832,403,17.4,6.07,16.5,137,9.15
+Taocun,IOA,Altered low-Ti magnetite,Zeng et al 2022,Disseminated ore,NW99-2 2-1,282,346,0,9050,789,227,19.4,2.52,12.1,103,10.2
+Taocun,IOA,Altered low-Ti magnetite,Zeng et al 2022,Disseminated ore,NW99-2 2-2,351,428,0,9740,818,232,26.5,3.52,13.2,125,10.5
+Taocun,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW46 1-2,92,467,0,15660,3215,1096,202,21.1,35.4,21.7,8.12
+Taocun,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW46 1-5,87.6,425,0,13470,2928,810,152,17.6,30.2,20,7.74
+Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW7-1-2,172,1506,0,18090,3712,1670,18.1,97.1,38.1,23.7,15.7
+Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW7 3-3,292,1023,0,8620,2313,1793,,63,43.9,19.2,16.1
+Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW7-2-2,164,827,0,19860,3736,1179,19.5,30.1,44.5,19.2,15.8
+Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW7 2-3,209,853,0,9440,3421,696,54,34,47.3,19.5,16.5
+Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW-7-3M 3-3,184,812,0,6990,3456,808,22.3,26.7,50.9,20.4,15
+Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Brecciated ore,NW-7-3M 3-4,215,674,0,10660,3460,963,91.1,38,51.2,18.5,17.7
+Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Massive ore,17WS21 1-1,97,210,600,11160,3006,344,38.8,11.3,37.2,22.9,11.6
+Washan,IOA,Altered low-Ti magnetite,Zeng et al 2022,Massive ore,17WS21 1-2,82.8,942,,17720,3551,796,17.1,36.3,41,24.1,20.1
+Taocun,IOA,Altered low-Ti magnetite,Zeng et al 2022,Vein ore,NW18-2-1,1985,2537,,860,3115,682,,118,62.8,71,39.4
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-1-4M-4 ,396,2526,15767,206,66,731,22,40,59,11,23
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-3-1M ,2888,2095,18569,425,64,1687,1,94,62,10,34
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-4-12M ,5073,12422,30287,376,66,1759,,111,66,11,45
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-5-16M ,1838,920,14021,205,41,1194,5,52,59,10,17
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-5-17M ,2267,921,13253,201,44,1348,,59,65,11,18
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-5-19M ,2916,1104,16557,377,40,1648,,75,63,11,23
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-8-25M ,558,970,6084,93,76,686,,33,62,10,16
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-8-27M ,552,2572,13857,517,66,1375,4,83,63,11,36
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-9-34M ,2798,1487,13375,368,63,1520,,87,65,11,29
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-11-19M ,1838,2003,13184,546,51,1663,,94,57,9,31
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F8-11-22M ,3399,1083,15521,466,40,1831,,93,64,13,27
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-2-13M-1 ,2161,1023,16509,97,3,1245,0.74,93,50,7,40
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-3-4M-1 ,2178,715,13121,52,4,1160,1.11,70,48,8,30
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-3-4M-2 ,1118,3437,14294,416,60,1099,,98,139,14,49
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-3-7M-1 ,2071,983,12028,162,21,1174,,70,50,11,27
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-3-7M-2 ,2763,1300,21911,76,8,1323,7.89,75,49,10,35
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-7-24M ,1466,1416,12985,65,9,1134,,77,48,9,36
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-7-25M ,1875,664,12647,14,1,1061,1.83,72,46,4,33
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F16-8-33M ,3056,1229,17950,44,6,1380,,87,49,4,39
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-4M ,1681,2400,22542,281,58,1616,0.6,64,72,12,54
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-5M ,2086,2437,24471,257,59,1735,,64,77,13,57
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-2-11M-1 ,85,738,1489,138,49,677,,23,64,14,15
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-4-12M ,966,1021,19630,155,53,1259,0.4,47,73,12,39
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-4-14M ,697,898,15728,146,50,1072,,43,69,12,31
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-5-16M ,1151,1470,21439,200,53,1209,1,54,72,12,42
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-5-18M ,1036,1379,20364,202,54,1180,0.6,54,69,12,42
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-6-22M ,937,1726,13739,257,18,1746,,86,70,14,55
+Shepherd Mountain,IOA,Shepherd high-Si,Tunnel et al 2022,,SM-F18-6-23M-2 ,653,1338,11853,215,39,1450,,64,67,13,37
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F8-4-11M ,160,560,1946,55,48,593,,28,63,7,11
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F8-9-35M ,844,976,3949,63,54,634,1.68,36,63,12,11
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-1-1M ,21,187,841,114,46,1494,,58,73,13,9
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-1-3M ,12,173,752,138,53,1548,,65,71,14,8
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-3-10M ,259,1043,3005,220,28,1963,,119,74,14,13
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-4-12M ,106,551,2355,199,39,1693,,99,74,13,11
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-4-13M ,123,825,2933,83,30,1412,,89,69,12,9
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-4-17M ,178,697,1684,69,10,1416,1.1,82,72,9,9
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-5-19M ,14,149,1235,103,54,1508,0.3,64,69,16,10
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-5-20M ,94,255,898,120,49,1576,,73,71,15,13
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-6-21M ,129,400,1636,122,51,1556,,80,74,16,12
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-7-22M ,111,432,1462,170,48,1626,,86,74,16,13
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-9-23M ,94,407,1973,155,53,1627,0.4,117,72,16,12
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F9-10-25M ,110,414,1576,120,54,1524,0.3,65,74,15,11
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F16-2-10M ,23,149,1173,60,84,465,0.6,22,49,17,9
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F16-3-5M ,66,305,1905,97,90,474,,20,48,15,9
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F16-3-6M ,125,542,2863,185,110,500,2.1,26,47,15,11
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F16-7-26M ,83,458,2662,170,47,528,1.6,34,45,13,13
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F16-8-32M ,17,146,628,85,71,423,,21,45,14,8
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F18-3M ,147,404,2388,45,63,603,1,18,68,16,11
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F18-2-7M ,784,2032,8887,340,61,1081,,44,69,14,29
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F18-2-11M-2 ,34,187,1293,25,46,569,,17,65,15,10
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F18-6-23M-1 ,1697,4010,15635,231,42,1720,,80,78,15,48
+Shepherd Mountain,IOA,Shepherd low-Si,Tunnel et al 2022,,SM-F18-6-25M ,488,1428,6078,95,51,955,,37,70,14,24
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-8-mag,30,141,,779,42,480,0,58,24,28,13
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-10-mag,4,31,4797,861,41,473,55.8,54,24,31,13
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-7-mag,376,1497,5704,269,51,503,0,56,21,26,13
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-6-mag,19,56,,776,45,539,0,62,23,35,14
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-11-mag,57,188,2542,799,45,701,7,57,26,30,13
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-12-mag,3,19,,903,47,498,0,48,24,28,13
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-14-mag,7,34,1376,727,45,663,0,50,24,28,12
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-15-mag,58,285,564,875,42,668,0,62,24,32,15
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-16-mag,166,345,3683,1256,40,695,32.9,60,25,33,15
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-17-mag,11,71,1950,1427,36,677,11.2,53,23,28,14
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-19-mag,26,64,4785,757,53,525,19.7,49,25,31,14
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,pkm-1098-450-20-mag,82,75,6468,912,46,502,0,60,26,28,14
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-1M,27,726,720,412,102,340,13.3,232,10,9,18
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-3M,76,1769,2064,332,95,540,9.4,751,19,8,18
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-6M,184,1281,1435,435,95,533,3.6,425,20,9,19
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-18M,953,1978,2348,70,80,621,3,47,18,19,14
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-19M,343,2582,7292,370,87,524,0.5,36,20,19,12
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-20M,130,469,4948,444,86,513,1.1,41,20,21,11
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-23M,996,1989,1184,319,97,424,5,261,18,9,15
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1098-580-25M,370,1456,4121,1254,100,442,12.5,37,16,10,13
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2038-1M,136,397,1718,1045,295,871,0.8,57,67,39,17
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2038-2M,121,253,914,1114,288,853,0.8,50,66,41,16
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2038-3M,264,431,2938,1245,284,851,1.4,57,67,38,18
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2038-5M,493,884,2694,1522,293,981,0.6,50,67,41,17
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2038-6M,629,896,4299,1430,296,1058,,104,63,35,18
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-1M,50,641,846,2534,101,1428,10.6,24,53,10,14
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-5M,16,2685,170,3055,108,1824,7.3,2402,54,8,12
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-6M,84,3085,597,3165,110,1721,18.4,1300,53,9,35
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-2M,257,8973,3809,2806,97,1616,2.3,822,54,5,101
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-3M,1039,8449,5745,2755,101,1841,4.1,509,56,7,75
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-4M,29,3279,366,3410,97,1838,10.3,690,52,7,58
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-8M,28,2937,4774,2723,103,1522,14.1,21,51,12,14
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-11M,171,1880,2471,1434,81,854,0.3,152,52,9,33
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-12M,78,1578,1685,2017,85,1226,2,66,52,7,36
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2053-13M,16,1630,530,3515,99,1853,15.3,563,48,7,28
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-1M,17,193,338,277,323,468,5,28,40,37,16
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-2M,16,358,558,2071,335,1133,5.3,26,39,34,15
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-3M,14,260,739,1981,343,1137,7.5,29,41,35,16
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-4M,10,168,2065,2043,327,1268,9,30,42,38,15
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-5M,140,638,796,1965,315,974,3.5,37,44,37,18
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-6M,10,402,,1722,329,855,2.9,36,42,38,17
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-7M,119,584,515,1870,333,883,3.8,30,42,38,18
+Pilot Knob,IOA,pilot knob,Tunnel et al 2022,,PKM-1160-2188-8M,34,356,396,1800,332,966,5.7,26,42,39,17
+Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-1,850,866,14842,41.7,12.3,4310,9.36,148,1.52,,9.09
+Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-2,252,337,6387,71.4,9.36,3854,3.39,89.3,7.2,,6.13
+Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-3,62.5,201,3246,65.6,36.5,3102,2.54,789,7.52,1.3,5.8
+Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-4,261,391,8535,74.6,33.7,3625,3.93,169,3.2,,6.83
+Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-5,114,255,3759,62.9,33.2,2199,58.2,2898,3.69,1.39,4.49
+Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-6,133,363,5913,92.6,14,4122,4,382,4.98,,6.56
+Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-7,2338,609,23958,108,21.9,7671,64.5,224,5.38,3.04,6.78
+Dingjiashan,Skarn,,Xing et al 2022,,DJS180-19-8,42.5,109,2493,50.3,37.4,1095,81.7,35.3,1.5,1.48,5.52
+Dingjiashan,Skarn,,Xing et al 2022,,DJS150-4-1,29.3,821,15011,96.5,23.8,4638,122,1926,13.6,1.72,5.12
+Dingjiashan,Skarn,,Xing et al 2022,,DJS150-4-2,108,512,10672,72.3,30.4,2698,93.2,1148,11.7,1.07,3.35
+Dingjiashan,Skarn,,Xing et al 2022,,DJS150-4-3,15.3,143,4448,51.2,4.55,4413,20.2,151,10.9,2.4,3.72
+Dingjiashan,Skarn,,Xing et al 2022,,DJS150-4-4,23.2,92.5,3425,28.9,21.8,4475,13.3,98.5,15,1.21,3.52
+Dingjiashan,Skarn,,Xing et al 2022,,DJS150-4-5,33.2,265,2902,30.4,20.8,2570,175,33,12.5,1.35,2.75
+Dingjiashan,Skarn,,Xing et al 2022,,DJS110-9-1,167,1069,13730,84.7,23.1,3908,12.4,12262,22.2,15.4,5.06
+Dingjiashan,Skarn,,Xing et al 2022,,DJS110-9-2,148,922,14521,65.4,7.57,3870,8.99,1159,13.3,2.28,5.16
+Dingjiashan,Skarn,,Xing et al 2022,,DJS110-9-3,128,349,11612,14,7.93,2962,40.2,303,21.1,1.24,3.55
+Dingjiashan,Skarn,,Xing et al 2022,,DJS110-9-4,154,792,13815,96.7,25.5,3835,77.1,1129,19.2,16.8,3.88
+Dingjiashan,Skarn,,Xing et al 2022,,DJS110-9-5,77.4,643,14430,121,14.1,6355,18.8,231,15.4,2.68,3.88
+Dingjiashan,Skarn,,Xing et al 2022,,DJS110-9-6,176,823,13638,100,15.8,3691,109,3956,24.2,3.72,3.65
+Dingjiashan,Skarn,,Xing et al 2022,,DJS110-9-7,148,938,15143,95.9,3.47,4566,54.5,1193,21.1,1.55,4.41
+Dingjiashan,Skarn,,Xing et al 2022,,DJS90-2-1,1824,3417,19365,306,105,4148,92.2,1612,10.6,65.7,5
+Dingjiashan,Skarn,,Xing et al 2022,,DJS90-2-2,4329,6230,27494,327,115,6101,305,2342,5.96,26.1,7.67
+Dingjiashan,Skarn,,Xing et al 2022,,DJS90-2-3,1718,3474,19938,216,88.7,2849,47.8,2023,5.25,28.2,6.87
+Dingjiashan,Skarn,,Xing et al 2022,,DJS50-8-1,32.8,569,9126,1.43,1.89,7381,10.2,361,4.93,4.64,10.1
+Dingjiashan,Skarn,,Xing et al 2022,,DJS50-8-2,39,1052,10609,430,106,7498,10.9,180,6.15,8.51,11.5
+Dingjiashan,Skarn,,Xing et al 2022,,DJS50-8-3,76.4,177,5303,22.3,13.2,3987,58.3,267,6.68,2.96,3.48
+Dingjiashan,Skarn,,Xing et al 2022,,DJS50-8-4,80.1,242,4995,13.4,15.6,3379,58,2112,17.2,11.6,3.12
+Dingjiashan,Skarn,,Xing et al 2022,,DJS30-5-1,3009,4048,15872,61.9,117,1297,135,886,14.3,10.5,5.97
+Dingjiashan,Skarn,,Xing et al 2022,,DJS30-5-2,3169,4485,21559,128,112,1631,65.3,1319,8.87,21.8,6.66
+Dingjiashan,Skarn,,Xing et al 2022,,DJS30-5-3,3082,3965,21504,304,104.5,1812,201,1018,9.66,34,6.71
+Dingjiashan,Skarn,,Xing et al 2022,,DJS30-5-4,9368,9300,33115,306,157,3134,437,381,8.19,29.2,6.82
+Dingjiashan,Skarn,,Xing et al 2022,,DJSm10-5-1,1264,3560,30967,52.1,52.8,5846,250,80.6,4.29,0.45,18
+Dingjiashan,Skarn,,Xing et al 2022,,DJSm10-5-2,2072,6082,15809,43.8,48.7,2796,52.2,88.5,13.9,0.42,18.9
+Dingjiashan,Skarn,,Xing et al 2022,,DJSm10-5-3,684,1568,15791,34.2,26.5,3982,55.7,57.7,4.52,0.29,20.3
+Dingjiashan,Skarn,,Xing et al 2022,,DJSm10-5-4,425,1117,15393,30.6,29.6,6224,232,1215,4.32,0.28,19.2
+Dingjiashan,Skarn,,Xing et al 2022,,DJSm10-5-5,1727,4191,30750,47.2,35.2,8154,347,67,12.8,0.43,20
+Dingjiashan,Skarn,,Xing et al 2022,,DJSm30-1-1,992,2804,22900,370,13.7,2018,175,421,4.23,6.1,12.8
+Dingjiashan,Skarn,,Xing et al 2022,,DJSm30-1-2,2051,5033,26748,356,14.1,1655,134,159,4.79,5.65,15.7
+Dingjiashan,Skarn,,Xing et al 2022,,DJSm30-1-3,1815,4795,28443,299,13.6,1636,126,113.6,5.33,5.74,15.4
+Dingjiashan,Skarn,,Xing et al 2022,,DJSm30-1-4,570,1287,19407,74.3,4.82,2432,17.6,1824,5.61,0.41,15.9
+Dingjiashan,Skarn,,Xing et al 2022,,DJSm30-1-5,401,1006,16823,40.1,2.05,1093,8.38,2079,6.14,0.95,16.5
+Fengyan,Skarn,,Xing et al 2022,,FY280-6-1,24.6,412,2708,42.9,95.6,2700,6.48,4389,32.6,5.56,2.94
+Fengyan,Skarn,,Xing et al 2022,,FY280-6-2,27.9,112,5511,20.4,20.1,4408,19.5,12910,107,8.96,2.32
+Fengyan,Skarn,,Xing et al 2022,,FY280-6-3,3.33,109,3049,5.02,5.8,3480,9.4,464,22.7,16.75,2.78
+Fengyan,Skarn,,Xing et al 2022,,FY280-6-4,7.42,145,3122,8.8,7.01,2983,36.8,503,20.5,10.44,2.58
+Fengyan,Skarn,,Xing et al 2022,,FY260-5-1,62.6,194,6992,33.2,50.2,2818,42.2,5029,6.93,0.58,3.5
+Fengyan,Skarn,,Xing et al 2022,,FY260-5-2,145,506,9029,74.3,53.4,2557,57.4,3848,6.34,0.53,3.99
+Fengyan,Skarn,,Xing et al 2022,,FY260-5-3,136,485,10375,20.8,37.4,5029,4.82,1618,7.9,1.24,4.04
+Fengyan,Skarn,,Xing et al 2022,,FY260-5-4,414,1577,19230,8.59,32.3,3283,9.75,284,1.74,0.17,6.3
+Fengyan,Skarn,,Xing et al 2022,,FY260-5-5,286,756,9200,41.6,29.5,2990,17.4,9473,2.1,0.59,3.89
+Fengyan,Skarn,,Xing et al 2022,,FY260-5-6,377,1531,19061,1.59,21.4,3014,18,210,1.92,0.17,7.33
+Fengyan,Skarn,,Xing et al 2022,,FY260-5-7,31.6,92.8,5695,7.15,18.4,1731,,230,1.32,0.23,2.33
+Fengyan,Skarn,,Xing et al 2022,,FY260-5-8,38.9,61.3,4817,10.3,27.2,1407,63.7,173,1.33,,2.05
+Fengyan,Skarn,,Xing et al 2022,,FY260-5-9,489,1817,20987,2.59,37,3481,32.3,716,1.09,,7.09
+Fengyan,Skarn,,Xing et al 2022,,FY240t-5-1,17.8,2459,1206,3.73,39.2,1559,99.4,51.6,0.87,,3.05
+Fengyan,Skarn,,Xing et al 2022,,FY240t-5-2,87.5,349,3948,5.74,0.82,2044,105,164,42.1,1.41,8.75
+Fengyan,Skarn,,Xing et al 2022,,FY240t-5-3,15.1,127,5831,9.56,2.47,4433,21,53.8,2.86,,5.17
+Fengyan,Skarn,,Xing et al 2022,,FY240t-5-4,15.6,87.1,6400,7.53,1.93,2849,24.8,34.6,3.93,,3.62
+Fengyan,Skarn,,Xing et al 2022,,FY240t-5-5,36.1,287,4055,3.35,1.9,1900,38.2,92.1,2.07,,4.8
+Fengyan,Skarn,,Xing et al 2022,,FY240t-5-6,987,2493,10742,69.4,66,2556,377,84.1,0.44,0.55,5.95
+Fengyan,Skarn,,Xing et al 2022,,FY200-21-1,149,384,4304,15.7,6.82,1248,76.1,615,23.9,2.12,4.93
+Fengyan,Skarn,,Xing et al 2022,,FY200-21-2,2118,1624,19848,35.4,14.3,3838,147,272,21.7,2.75,5.17
+Fengyan,Skarn,,Xing et al 2022,,FY200-21-3,113,679,4082,22.2,13.7,2888,115,1320,17.6,5.28,5.14
+Fengyan,Skarn,,Xing et al 2022,,FY200-21-4,358,751,5487,51.5,7.04,1123,189,1833,22,3.69,5.33
+Fengyan,Skarn,,Xing et al 2022,,FY200-21-5,559,1308,6492,49.5,5.73,1530,222,6733,30.8,2.77,5.03
+Fengyan,Skarn,,Xing et al 2022,,FY200-21-6,754,853,8741,68.4,4.84,1776,149,155,21.5,4.18,4.8
+Fengyan,Skarn,,Xing et al 2022,,FY200-21-7,116,285,6052,15.9,3.5,1311,251,418,17.3,2.75,3.77
+Fengyan,Skarn,,Xing et al 2022,,FY200-38-1,36,196,6226,16.2,0.99,4409,15.9,16471,49.8,1.51,7.26
+Fengyan,Skarn,,Xing et al 2022,,FY200-38-2,14.1,201,8085,12.3,1.54,2526,139,8.19,5.97,0.88,0.21
+Fengyan,Skarn,,Xing et al 2022,,FY200-38-3,3.94,209,1654,35.4,5.38,1808,10.2,1.89,,0.06,0.27
+Fengyan,Skarn,,Xing et al 2022,,FY200-38-4,2.38,561,2475,60.9,9.81,3395,21,2.17,1.11,,0.36
